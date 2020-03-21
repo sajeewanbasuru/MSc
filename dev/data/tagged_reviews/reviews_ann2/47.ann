@@ -1,0 +1,12 @@
+T1	BOOK 124 183	book does *not* have the kind of science-is-wonder attitude
+T2	BOOK 209 323	it does not convey the message "Study science, it's a noble thing to do, your curiosity will be greatly rewarded",
+T3	Book_Sci-content 498 588	book is really a monograph by someone who thinks they have literally figured out the brain
+T4	Book_Sci-content 644 743	you won't see a mention of the holographic theory of the brain, or the brain-as-dynamic-system view
+T5	Book_worthiness 858 900	the book is written for the general public
+T6	Book_Sci-content 926 1067	it presents utterly untested (by anyone, even the author) hypotheses, mostly made by the author himself or hand-picked from existing research
+T7	Book_Sci-content 1345 1438	the subject, admittedly the biggest mystery of our time, is given such a simplistic treatment
+T8	Author_expertise 1733 1899	there is no evidence that the author or his colleagues have actually built any software or hardware that can detect any meaningful patterns in visual or audio streams
+T9	Book_worthiness 1907 1936	I'd still recommend this book
+T10	Book_readability 1946 1964	it highly readable
+T11	Book_Sci-content 1971 1990	t'll make you think
+T12	Book_worthiness 2051 2069	it gets four stars

@@ -1,0 +1,6 @@
+T1	Author_expertise 312 344	author seems to know his subject
+T2	Book_Sci-content 587 601	poorly written
+T3	Book_readability 606 629	even more poorly edited
+T4	Book_Sci-content 730 833	text is repetitive, confused, and often doesn't match up with the code and data sets to which it refers
+T5	AUTHOR 916 965	hesitate to trust this author and publisher again
+T6	Book_readability 835 910	Color coded figures are published (in the print edition) in black and white

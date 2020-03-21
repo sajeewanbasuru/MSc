@@ -1,0 +1,4 @@
+T1	Book_Sci-content 484 510	good reference for someone
+T2	Book_worthiness 599 656	emphatically is not of any use to the novice in the field
+T3	Book_Sci-content 664 1011	contains many proofs of theorems, numerous long winded "explanations" (most of which I don't understand), some algorithms set out in an obfuscated format(2) that I thought had died out about the time I got my BS, but (as far as I've been able to discover) not one line of actual code, nor any implementation, even of the simple "Hello, World" sort
+T4	Book_Sci-content 252 457	wading through about the first third of the book, and skimming the rest, I must say that if I had to implement a program using PGM to solve some problem, I wouldn't have the foggiest idea how to even begin

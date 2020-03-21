@@ -1,0 +1,18 @@
+T7	BOOK 5 9 :: book:ENTITY
+T25	AUTHOR 1992 1995 ::
+T26	Author_expertise 1992 2005 ::	his arguments:ex
+T28	Book_Sci-content 2236 2249 ::	name-dropping:ex
+T1	Book_worthiness 13 28 ::	very well known:im
+T2	Book_worthiness 38 168 ::	question:im, rather rapidly advancing:im, technological trends:im, influence:im, humanity:im, future:im
+T3	Book_Sci-content 247 258 ::	much weaker:im
+T4	Book_readability 314 326 ::	thick volume:im
+T5	Book_Sci-content 375 399 ::	uncritical extrapolation:ex
+T8	Book_Sci-content 337 373 ::	naive technology optimism:im
+T9	Book_Sci-content 462 506 ::	somewhat more than half knowledge of biology:im
+T6	AUTHOR 1107 1124 ::	strongly believes:im
+T10	Book_Sci-content 1039 1067 ::	very sound:im
+T11	Book_Sci-content 1509 1524 ::	mistakes:im, models:ex
+T12	Book_Sci-content 1678 1699 ::	certainly good models:ex
+T13	Book_Sci-content 1811 1894 ::	use of quotations:im, cover up:im, lack of content:im
+T14	Book_Sci-content 2365 2404 ::	only made up of quotations:im
+T15	BOOK 2446 2476 ::	involuntarily interesting book:im

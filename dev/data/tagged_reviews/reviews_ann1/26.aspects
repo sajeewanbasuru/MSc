@@ -1,0 +1,10 @@
+T1	BOOK 663 708	:: detail:ex
+T2	Book_worthiness 1188 1244	:: important book:im, nerd for nerds:im
+T3	Book_Sci-content 2365 2457	:: book:ENTITY, detailed discussion:ex, computing power:ex, draconian drops:ex
+T4	Book_readability 2546 2577 :: 	charts:ex
+T5	Book_readability 2578 2601 :: index:ex
+T6	Book_worthiness 2771 2831	:: recommend:ex
+T7	Book_worthiness 2707 2765	:: higher marks:ex, interesting:im
+T8	Book_Sci-content 4502 4549	:: book:ENTITY, hints:im 
+T9	Book_worthiness 5232 5268	:: recommended:im,  competing viewpoint:ex
+T10	AUTHOR 6080 6107	:: authors:ENTITY, poles apart:im

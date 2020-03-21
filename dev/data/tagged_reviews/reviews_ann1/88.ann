@@ -1,0 +1,6 @@
+T1	Book_worthiness 0 20	This is a great book
+T2	Book_worthiness 25 70	I have to disagree with the overall viewpoint
+T3	Book_worthiness 281 407	People who normally use high level languages such as C#, VB.Net, or JAVA are probably not going to benefit much from this book
+T4	Book_worthiness 517 603	On the other hand, if you still use malloc on a daily basis, you need to read the book
+T5	Book_readability 615 669	the book is easy to read and I never caught any errors
+T6	Book_worthiness 671 763	If you want to learn about computers at a low level, then this is a great book to start with

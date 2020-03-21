@@ -1,0 +1,12 @@
+T1	Book_Sci-content 30 89	covers most areas of pattern recognition quite exhaustively
+T2	Author_expertise 95 229	author is an expert, this is evidenced by the excellent insights he gives into the complex math behind the machine learning algorithms
+T3	Book_Sci-content 370 424	found some of the stuff in the book quite illuminating
+T4	Book_Sci-content 464 491	the book is very math heavy
+T5	Book_Sci-content 590 619	struggling with the equations
+T6	Book_worthiness 629 696	certainly not the book that can teach one things from the ground up
+T7	Book_worthiness 720 740	give it only 3 stars
+T8	Book_Sci-content 772 825	finding the relevant chapters difficult and confusing
+T9	Book_worthiness 915 1049	intended audience for this book I guess are PhD students/researchers who are working with the math related aspects of machine learning
+T10	Book_worthiness 832 909	book wont be very useful if all you want to do is write machine learning code
+T11	Book_worthiness 1170 1270	time spent in struggling with the contents of this book will certainly pay-off, not instantly though
+T12	Book_worthiness 1069 1153	people with little exposure to machine learning will have a hard time with this book

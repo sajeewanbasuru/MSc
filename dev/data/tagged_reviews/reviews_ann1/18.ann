@@ -1,0 +1,17 @@
+T1	AUTHOR 25 48	is a bit of an optimist
+T2	AUTHOR 104 140	positively bubbling with enthusiasim
+T3	AUTHOR 310 370	more like a passionate evangelical than a reasoned scientist
+T4	AUTHOR 1201 1239	he'd have backup for his basic premise
+T5	Book_Sci-content 2410 2442	book isn't based on hard science
+T6	Book_Sci-content 2449 2536	positively larded with science, so much so that my eyes tended to glaze over many times
+T7	AUTHOR 2553 2582	he doesn't seem very critical
+T8	AUTHOR 2593 2707	does acknowledge the existence of contrary opinion, he quickly (albeit politely) dismisses any cautionary thoughts
+T9	Author_expertise 2805 2851	obviously a brilliant, well-informed scientist
+T10	Book_worthiness 2979 2997	become unimpressed
+T11	AUTHOR 3344 3410	His failure to make the distinction is misleading and disingenuous
+T12	Book_Sci-content 3415 3473	makes me wonder about the veracity of the rest of the book
+T13	Book_readability 3482 3516	the book itself, it's far too long
+T14	Book_Sci-content 3521 3654	repeats his points so much it seems as though he thinks that by mere repetition the reader will become more convinced that he's right
+T15	BOOK 3660 3703	some parts of the book are simply annoying,
+T16	AUTHOR 3839 3883	his optimisim about the future is refreshing
+T17	Book_Sci-content 4089 4238	doesn't seem to remember that virtually all predictions about the future are wrong, since the predictions are simply extrapolations of current trends

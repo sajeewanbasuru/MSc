@@ -1,0 +1,12 @@
+T1	Book_readability 116 148	this book, which is easy to read
+T2	Book_Sci-content 153 210	filled with concrete solutions and lots of supporting dat
+T3	Book_worthiness 216 235	near-perfect for me
+T4	Book_readability 345 485	Even the ones with good information (eg, Fodor's Modularity) are hard to read and filled with confusing, field-specific words. Not this book
+T5	Book_readability 513 559	Written in plain English, very few assumptions
+T6	Book_Sci-content 561 630	very thorough analysis, lots of self-criticism, lots and lots of data
+T7	Book_Sci-content 733 917	Common AI, psych and economic decision and learning algorithms (decision trees, neural nets, Bayes, multiple linear regression, etc.) are compared to several absurdly simple algorithms
+T8	Book_Sci-content 955 1133	The various approaches are compared and evaluated on the basis of performance, accuracy on training data, accuracy on test data (generalization) and amount of input data required
+T9	Book_Sci-content 1135 1194	Tests are on the standard UC Irvine data learning test sets
+T10	Book_Sci-content 1196 1294	Comparisions, outcome explanations and relevance to the human mind and the real world are provided
+T11	Book_Sci-content 1296 1368	Explanations and analysises are easy to understand and pretty convincing
+T12	Book_worthiness 1506 1533	i absolutely love this book

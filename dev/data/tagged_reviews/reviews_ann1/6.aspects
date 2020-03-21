@@ -1,0 +1,9 @@
+T1	Book_worthiness 5 65	:: actually benefit:im, book:ENTITY
+T2	Book_Sci-content 71 227	:: pages of equations:im, interrupted:im, intuition:im, techniques:ex
+T3	Book_Sci-content 263 379	:: universe of graphs:im, scarcely more informative:im, equations:ex,  meant to illustrate:im
+T4	AUTHOR 405 448	:: Bishop:ex
+T5	Book_Sci-content 450 544	:: catalog of equations:im, thoroughly understand:im, learning algorithms:im
+T6	Book_worthiness 564 590	 :: adequate:im
+T7	Book_Sci-content 648 749	:: technically correct:im, incomprehensible descriptions:ex, methods:ex
+T8	Book_Sci-content 798 915    :: chaos:im, retell:im, technical story:ex
+T9	Book_worthiness 1036 1132	:: best machine learning / pattern rec. book:im

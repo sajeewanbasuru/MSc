@@ -1,0 +1,6 @@
+T1	Book_worthiness 0 10	    :: Great book:im
+T2	Book_worthiness 12 68	    :: Gyoung people:ex
+T3	Book_Sci-content 112 198	:: VERY elementary level:im
+T4	Book_Sci-content 200 236	:: Good as a basis:im
+T5	Book_Sci-content 327 360	:: GREAT algorithms:ex, missing:im
+T6	Book_Sci-content 1273 1331	:: simple fact:ex, sufficiently visible from the book:im

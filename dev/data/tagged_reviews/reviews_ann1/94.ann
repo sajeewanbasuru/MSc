@@ -1,0 +1,18 @@
+T1	Book_worthiness 22 91	do not purchase this book expecting it to teach you math fundamentals
+T2	Book_worthiness 93 279	If you do not have a background of at least algebra and trigonometry (and preferably a bit of calculus), you owe it to yourself to pick up another book and brush up on these fundamentals
+T3	Book_Sci-content 287 412	there are a few appendices covering a handful of topics, they are less about explaining the topic and more of reference pages
+T4	Book_worthiness 415 528	Mathematics for 3D Game Programming and Computer Graphics is an excellent reference book for anyone doing 3D work
+T5	Book_Sci-content 530 620	The topics are very to the point and few pages are wasted explaining basic math principles
+T6	Book_Sci-content 684 825	book probably won't teach anyone who doesn't know they underlying principles but will be your go-to reference for any algorithm you implement
+T7	Book_Sci-content 828 1028	The book starts with the reviews of the requisite vector, matrix, transformation (including rotations by quaternions) and basic geometry for a view frustum, but quickly dives into more advanced topics
+T8	Book_Sci-content 1030 1105	Ray tracing is covered for all areas of use, from light maps to reflections
+T9	Book_Sci-content 1107 1258	The lighting chapter covers texturing using several map types as well as lighting models with a very enjoyable discussion of specular reflection models
+T10	Book_Sci-content 1261 1397	Solid chapters on culling using bounding volumes and portal systems, shadowing and curve algorithms round out the first half of the book
+T11	Book_Sci-content 1399 1530	The second half is devoted to the mathematics of physics, with chapters on basic collision detection, linear and rotational physics
+T12	Book_Sci-content 1532 1766	The simulation of fluids and cloth (one of the more difficult physical models to accurately compute in a game) gets it's own chapter and it's a highlight for anyone implementing character clothing animation or a realistic water volume
+T13	Book_Sci-content 1769 1827	Every chapter has exercises (with and appendix of answers)
+T14	Book_worthiness 2015 2091	Anyone who needs a math reference book for 3D would do well to own this book
+T15	Book_worthiness 2094 2208	f you are writing your own engine, you owe it to yourself to pick up what will be the only math book you will need
+T16	BOOK 2254 2339	this hardcover book will last through many late-night coding sessions both physically
+T17	Book_price-Value 2344 2399	with regard to the material within at a low price point
+T18	AUTHOR 2527 2598	The author has done the impossible; make a truly terrific math textbook

@@ -1,0 +1,9 @@
+I bought this book as an experienced programmer and Unix user expecting more of a "Numerical Recepies in Python" emphasis on the efficient implementation of algorithms which happen to be in Python. I should have paid more attention to the description.
+
+This book is really more of a "Grad Student's Guide to Everyday Python Usage". I imagine it would be very valuable to a mathematics Grad student without too much programming or shell experience, looking for an alternative to Matlab. However, there is very little "Computational Science" in this book. Do NOT expect a cookbook of high performance algorithm implementations.
+
+The book is a very verbose 700+ pages, all in an unexciting academic LaTeX format. The author works through idiom after idiom for accomplishing different tasks in fairly stand-alone sub-sections without much of a feeling of conceptual "flow" between them. It sort of feels like reading through the author's personal lab notes that he took everytime he learned a new language feature or trick.
+
+If you are an experienced programmer, you will quickly get impatient with the verbose presentation that emphasizes idioms and examples instead of fundamental concepts and syntax reference tables. But, if you are an experienced programmer, you are not the target audience for this book.
+
+Braddock Gaskill

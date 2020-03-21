@@ -1,0 +1,7 @@
+I looked around quite a bit trying to find a robot building book that would take my 14 yr old through the process in a way he could understand. David Cook delivered perfectly. Every other book I looked at seemed either too childish, or alternately, assumed a solid background in electronics. Robot Building for Beginners, like Baby Bear's porridge, is just right!
+
+I studied philosophy in college, so can offer my son no help in building robots. I've seen this book described as a swimming pool that's 5'x5' but 25' deep. That's pretty apt. I like the extensive chapter on components - what they are, how they work - neither my son nor I knew a resistor from a diode before. Also an entire chapter on safety was great from the concerned parent perspective.
+
+The book is long, but covers a lot of ground with very little fluff. In 10 days my son had read up to the chapter where you start building your robot - he had absorbed a ton of information, built a few basic circuits and tested/troubleshot them with a multimeter. Now he's just waiting impatiently for me to set him up with the necessary components to start building (actually he's started scavenging components from dead/unused electronics he comes across; and I'm starting to fear for my DVD player).
+
+I don't think you'll find a better starting point for a novice.

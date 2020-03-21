@@ -1,0 +1,12 @@
+T1	BOOK 11 55	version of the book is for the Indian market
+T2	BOOK 179 225	found a LOT more similarities than differences
+T3	Book_Sci-content 232 290	biggest difference is the absence of the last two chapters
+T4	Book_Sci-content 296 452	U.S. edition includes: Chapter 26, "Philosophical Foundations", which covers arguments over consciousness in machines and the possibility of robot uprisings
+T5	Book_Sci-content 458 626	Chapter 27, "AI: The Present and Future", which *briefly* describes some things AI researchers need to work on before we can build a "general-purpose intelligent agent"
+T6	BOOK 704 738	These two chapters are interesting
+T7	BOOK 842 877	differences are astonishingly minor
+T8	Book_readability 883 1034	chapters are unnumbered, and some of them swapped places for no reason, but all the content from chapters 1 through 25 is here, plus the two appendixes
+T9	Book_readability 1040 1103	ONLY edits to the text are removals of cross-chapter references
+T10	Book_readability 1360 1396	All the other sentences are the same
+T11	Book_Sci-content 1398 1506	The equations are the same. The diagrams are the same. The exercises at the end of each chapter are the same
+T12	Book_price-Value 1519 1602	if you can do without those last two chapters, buy this version and save your money

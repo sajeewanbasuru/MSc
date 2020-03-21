@@ -1,0 +1,16 @@
+T1	Book_Sci-content 145 218	this book is a quick and easy read that will make you aware of the basics
+T2	AUTHOR 233 272	author is himself clearly non-technical
+T3	AUTHOR 277 344	has a sensationalist style that feels too much like tabloid writing
+T4	Book_Sci-content 568 664	there were so many problem areas that I'd never bother to sit down and address them individually
+T5	Book_worthiness 673 804	these problems would only matter to a technical audience -- experienced programmers, people with a more-than-passing-interest in AI
+T6	Book_worthiness 856 933	It's a critically important subject which deserves better treatment than this
+T7	AUTHOR 935 991	Barrat seems to understand the basic problem well enough
+T8	AUTHOR 1014 1080	I had the feeling his primary goal was hitting a page-count target
+T9	Book_Sci-content 1095 1170	most of the section about malware is largely irrelevant to the real problem
+T10	Book_Sci-content 1290 1356	His TV documentary background shows at the start of each paragraph
+T11	AUTHOR 1423 1526	He'll shoot somebody down in one chapter, then use that same person to support his argument in the next
+T12	AUTHOR 1528 1595	He tosses around concepts like cognitive bias and logical fallacies
+T13	Book_Sci-content 1751 1777	only scratches the surface
+T14	Book_Sci-content 2051 2115	insufficient attention and respect is being given to the problem
+T15	Book_worthiness 2133 2160	I'm giving this three stars
+T16	Book_worthiness 2368 2411	If you're non-technical, buy it and read it

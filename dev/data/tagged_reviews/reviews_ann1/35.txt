@@ -1,0 +1,13 @@
+Great book. Good for showing young people that computers can do more than just play games and access facebook.
+
+Written on VERY elementary level, rather not for professional but for complete amateur. Good as a basis for popular lectures, on K-12 level.
+
+However, selection of "great" algorithms is a bit arbitraty and limited. Some GREAT algorithms are missing:
+
+1. FFT (Fast Fourier Transform). This is the bridge bewteen analog world and digital world. Without FFT would be no digital communications, digital music and modern cell phones
+
+2. Kalman Filter. Algorithm for extracting useful signal from noise. Without Kalman Filter would be no space ships, telecommunication satellites and car computers
+
+3. Linear Programming. How to make optimal decisions. This is the tool that makes economy efficient, controls manufacturing and transportation
+
+Conceptually, these algorithms are a bit more complex than ones described in the book - some mathematics is needed to present these algorithms. But experience shows that elementary presentation is possible. In addition, these algorithms show that MATHEMATICS is the basis for great algorithms. This simple fact is not understood by young peopole who associate great algorithm with nothing more than programming in Java. And this simple fact is not sufficiently visible from the book

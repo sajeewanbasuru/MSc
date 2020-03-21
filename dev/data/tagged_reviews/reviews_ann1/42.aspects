@@ -1,0 +1,4 @@
+T1	BOOK 4 44 :: title of the book:ex
+T2	Book_Sci-content 196 244	:: highly recommend:im, prerequisite:ex
+T3	Book_Sci-content 318 468	:: adequate:im,  good introduction:ex, overview of the subject:ex, successfully digesting:im
+T4	Book_Sci-content 593 701	:: seem enough:im, introduction:ex, first source of introduction:ex

@@ -1,0 +1,4 @@
+T1	Book_Sci-content 484 510	:: good reference:im
+T2	Book_worthiness 599 656	    :: use:im, novice in the field:im
+T3	Book_Sci-content 664 1011	:: proofs of theorems:im, long winded explanations:im, algorithms:ex, obfuscated:im, format:ex, line of actual code:im, implementation:im
+T4	Book_Sci-content 252 457	:: foggiest idea:im

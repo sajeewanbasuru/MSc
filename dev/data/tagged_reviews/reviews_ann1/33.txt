@@ -1,0 +1,21 @@
+Charles Seife has not been the first to proclaim that the most fundamental entity in the universe is "information". Physicist John Wheeler, David Bohm, and Tom Siegfried among others have held this view as well, but no other author I've read has gone to such lengths to establish this idea as an undeniable conclusion.
+
+In a consise staight-forward format, Siefe delves into biology, computer science, cosmology, Relativity, and quantum theory, to establish the notion that information and the second law of thermodynamics are intricately linked. And he does this without ever allowing the reader to become lost or confused.
+
+Information is always physical, whether it is marks on paper, holes in a punch card, atoms in an electo-magnetic state on a CD, photon polarization, or up/down spin on an electron. All information has a physical representation. And like any physical thing in our universe, it abides by the laws of nature, including the laws of thermodynamics and Relativity. Information, like energy, can neither be created nor destroyed. Infomation always moves toward the most probable state: maximum entropy. And no information can travel faster than the speed of light.
+
+The qubit, which is the quantum representation of the classical bit, abides by the laws of quantum physics, and despite the weird instantaneous quantum connection between particles in an entangled state demonstrated by Bell's theorem of inequality; the qubit does not violate faster-than-light communication. Oddly, the qubit does violate one tenant of Relativity--that no effect can precede its cause. It seems that the time-asymetrical qubit has no "before" or "after".
+
+Unlike the classical bit wich resides in a binary, either/or state, the qubit can be in a superposition of states: Two states simultaneously. This fact is what makes the possibility of quantum computing so enticing. By nesting probable outcomes in a superposition of states many fewer yes/no questions are needed in algorithms, making quantum computing many orders of magnitude faster than classical computing.
+
+But, far wider implications exist for the quantum qubit. Siefe believes that the qubit's superposition of states solves two contentious vagaries of the Copenhagen Interpretation of reality: What constitutes an observer? And is there a difference between the classical and quantum worlds?
+
+Siefe says that there is no clear-cut demarcation between the subatomic and classical world, and there is no conscious observer required to collapse the wave function. This directly leads to a resolution of the famous Schrodinger's cat paradox. Since the universe at large is constantly involved in probing with light waves, neutrinos, and zero point energy, the universe itself acts as the observer. Large macro objects such as cats undergo decoherence (a collapse of the superposition of states into a classical bit) very rapidly, while a single subatomic particle or photon take a much longer time, being less likely to come into contact with nature's measurements.
+
+Information is so fundamental that Siefe believes Richard Dawkins popular book called "The Selfish Gene", would have been more appropriately titled "Selfish Information". Siefe says that when it comes to biological organisms, information is even more selfish than the gene, and can run contrary to survival of the fittest. He cites several examples of information reproducing itself even though it is detrimental to the organism, and at times, to the entire species. Information will attempt to replicate even at the expense of the proliferation of the organism carrying the information.
+
+This book was very enticing, and left me with some questions. Is it information that is the most basic entity, or is it "meaning" as physicist David Bohm maintains? Is there a difference between information and meaning? Experiments with polarization of light lead me to suspect that there is a difference.
+
+And, finally, is the brain really a classical machine as Siefe says, or is it a quantum machine as Evan Harris Walker maintains? (See my review: "The Physics of Consciousness" on Amazon). Either way, Charles Seife is right on the mark with this work. I give this book 4.5 stars for being an excellent and fun read.
+
+This review by David Kreiter, author of Quantum Reality: A New Philosophical Perspective.

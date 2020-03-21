@@ -1,0 +1,5 @@
+T1	Book_readability 4 69	 :: topics:ex, concepts:ex, book:ENTITY,  exceptionally well organized:im
+T2	Book_readability 210 248 ::	notation:ex,  sometimes non-standard:im
+T3	Book_Sci-content 362 403 ::	explanations:ex,  sometimes too brief:im
+T4	Book_Sci-content 540 612 ::	identify:im, explain:im
+T5	Book_Sci-content 614 714 ::	extra sentence:ex, explanations:ex

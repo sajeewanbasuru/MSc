@@ -1,0 +1,21 @@
+T1	Book_worthiness 55 65	:: great book:im
+T2	Author_expertise 176 193	:: clearly an expert:im
+T3	AUTHOR 238 269	:: HUGE fan of Bayesian Statistics:im
+T4	BOOK 275 306	:: title of the book:ex,  misleading:im
+T5	BOOK 447 489	:: title:ex
+T6	Author_expertise 608 702	:: understanding of the material:im, ability to explain:im
+T7	Book_Sci-content 721 766	:: mentions of examples:im
+T8	Book_readability 778 820	:: many graphics:im,  trivial indicators:im
+T9	Book_Sci-content 853 949	:: concepts:ex, book:ENTITY, benefited:im from even a single application
+T10	Book_Sci-content 1161 1192	:: no idea:im, intentions:im
+T11	Book_Sci-content 1080 1112	:: excellent reference:im, refresher:im
+T12	Book_readability 1220 1273	:: symbols:ex, flat out confusing:im
+T13	Book_Sci-content 1449 1488	:: references:ex, articles:ex
+T14	Book_Sci-content 1892 1918	:: abysmally over complicated:im
+T15	Book_Sci-content 2058 2132	:: book:ENTITY,  mentions:im, lot of information:im
+T16	Book_Sci-content 2452 2519	:: no answers:im,  problems:ex, explorations:ex
+T17	Book_price-Value 2621 2650	:: purchase:im
+T18	Book_worthiness 2533 2554	:: book:ENTITY, amazing:im
+T19	Book_worthiness 2807 2851   :: good book:im
+T20	Book_Sci-content 2957 3051	:: methods:ex, algorithms:ex, bits of pseudo code:ex, applications:ex, text:ex
+T21	Book_Sci-content 3058 3174	:: examples:ex, elements from a real problem:im, explained:im

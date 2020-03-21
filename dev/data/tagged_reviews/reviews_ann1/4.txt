@@ -1,0 +1,17 @@
+Being an avid Ray Kurzweil fan, had expected something interesting from him. For all
+practical purposes, i knew that there would be no ground breaking secret revealed.
+Rather, i had expected a nice framework, a platform to step upon or at least one new
+perspective.
+
+This book is just a slightly different take on Jeff Hawkins work On Intelligence.
+
+By the time, i reached chapter 3 and read about the PRTM, i wanted to quickly read the rest
+of the book and get over with it. Somehow, i felt that the book "On Intelligence" by Jeff
+Hawkins and Sandra Blakeslee was much better and more logical with apt experiments
+documented to highlight every point.
+
+This book taught me "Hierarchical hidden markov models", a lot of things that happened at
+Ray's former offices, loads of marketing for Nuance and Siri and frankly, nothing else.
+
+Ray, if you happen to read this comment, nothing personal. Just a great fan of yours ranting
+about his disappointment here.

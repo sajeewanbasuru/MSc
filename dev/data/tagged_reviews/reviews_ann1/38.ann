@@ -1,0 +1,14 @@
+T1	Book_Sci-content 0 33	This book introduces the concepts
+T2	Book_readability 117 135	It is hard to read
+T3	Book_Sci-content 140 189	a good background in mathematic is clearly needed
+T4	Book_Sci-content 195 221	book has a strong emphasis
+T5	Book_Sci-content 272 299	Concepts are well explained
+T6	Book_readability 310 333	equations are not clear
+T7	Book_readability 339 385	notation doesn't facilitate the reading at all
+T8	Book_Sci-content 391 436	book covers linear as well as kernel learning
+T9	Book_Sci-content 442 472	kernel trick is well described
+T10	Book_Sci-content 480 504	easy to understand ideas
+T11	Book_Sci-content 567 613	small chapter on SVM applications is proposed.
+T12	Book_Sci-content 614 670	Unfortunately, it only contains typical SVM applications
+T13	Book_worthiness 1142 1187	book is definitely written for mathematicians
+T14	Book_worthiness 706 723	this book is good

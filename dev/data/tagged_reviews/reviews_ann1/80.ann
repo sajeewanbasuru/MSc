@@ -1,0 +1,12 @@
+T1	BOOK 722 763	Both books are NOT for absolute Beginners
+T2	Book_Sci-content 1372 1403	MG is geared to a mathematician
+T3	Book_Sci-content 1303 1361	MM6 is geared more towards a programmer/scientist/engineer
+T4	Book_readability 1405 1537	MM6 is comprehensive (800 pages!), but well organized that you can branch off to a given chapter without covering all prior chapters
+T5	Book_Sci-content 1710 1743	THE BOOK IS WELL CROSS-REFERENCED
+T6	BOOK 1793 1811	MM6 is real modern
+T7	Book_Sci-content 1823 2007	4 chapters (out of 28) that delve into the Object Oriented aspects of Matlab, interfacing to C or Fortran, Extending Matlab with Java and integrating Matlab with Windows using Active X
+T8	Book_Sci-content 2009 2062	7 Chapters are devoted to Graphics, Interface, Movies
+T9	Book_Sci-content 2064 2179	9 Chapters are devoted to Topics that a modern Scientist or Engineer would need to know to take advantage of Matlab
+T10	Book_Sci-content 2219 2250	MM6 covers the topics in detail
+T11	Book_worthiness 2354 2489	MM6 is ideal for an Engineer/Scientist who is looking for a book to take him or her from the Apprentice to a Journeyman level in Matlab
+T12	Book_worthiness 2585 2658	This will get you to the plane where you can then focus on your specialty

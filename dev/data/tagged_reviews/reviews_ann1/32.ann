@@ -1,0 +1,6 @@
+T1	Book_worthiness 567 601	might not need this book initially
+T2	Book_worthiness 612 655	it definitely helps to have it on your desk
+T3	Book_Sci-content 698 728	first chapters are a bit messy
+T4	Book_Sci-content 738 807	attempt to introduce all three themes (NLP, NLTK and Python) together
+T5	Book_worthiness 809 862	Beginners may have some difficulty sorting things out
+T6	Book_worthiness 942 1018	realize that you would never understand this topic without the book, or both

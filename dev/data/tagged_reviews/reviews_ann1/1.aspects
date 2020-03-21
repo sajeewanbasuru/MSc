@@ -1,0 +1,17 @@
+T2	Book_Sci-content 192 233 ::	far the worst:im
+T1	Book_Sci-content 252 339 ::	research monologue:im, less explanation:ex, far less coherence:ex
+T3	Book_Sci-content 349 404 ::	demystify:im, concepts:ex
+T4	Book_Sci-content 414 444 ::	exposition:ex, all over the map:im
+T5	Book_readability 459 521 ::	clear:im, coherent:im
+T6	Book_readability 574 620 ::	squeeze:im
+T7	Book_worthiness 847 927	:: recommend:im, reading:ex, comparing:im
+T8	Book_price-Value 1122 1154 :: cost:im
+T9	Book_Sci-content 1310 1335 :: useful as a summary:im
+T10	Book_Sci-content 1548 1581 :: pretty good reference:im
+T11	AUTHOR 1611 1638 ::	very well known researchers:ex
+T12	BOOK 1832 1864 ::	attract some buzz:im
+T13	Author_expertise 1672 1700 :: good papers:im
+T14	Book_worthiness 1876 1898 :: very useful:im
+T15	Book_Sci-content 2018 2046 :: quick reference:im
+T16	Book_Sci-content 2093 2115 :: pretty much a disaster:im
+T17	Book_price-Value 2261 2283 :: wasting:im, lot of money:ex

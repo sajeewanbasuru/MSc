@@ -1,0 +1,37 @@
+How to Create a Mind: The Secret of Human Thought Revealed by Ray Kurzweil
+
+"How to Create a Mind" is a very interesting book that presents the pattern recognition theory of mind (PRTM), which describes the basic algorithm of the neocortex (the region of the brain responsible for perception, memory, and critical thinking). It is the author's contention that the brain can be reverse engineered due to the power of its simplicity and such knowledge would allow us to create true artificial intelligence. The one and only, futurist, prize-winning scientist and author Ray Kurzweil takes the reader on a journey of the brain and the future of artificial intelligence. This enlightening 352-page book is composed of the following eleven chapters: 1. Thought Experiments on the World, 2. Thought Experiments on Thinking, 3. A Model of the Neocortex: The Pattern Recognition Theory of Mind, 4. The Biological Neocortex, 5. The Old Brain, 6. Transcendent Abilities, 7. The Biologically Inspired Digital Neocortex, 8. The Mind as Computer, 9. Thought Experiments on the Mind, 10. The Law of Accelerating Returns Applied to the Brain, and 11. Objections.
+
+Positives:
+1. Well researched and well-written book. The author's uncanny ability to make very difficult subjects accessible to the masses.
+2. A great topic in the "mind" of a great thinker.
+3. Great use of charts and diagrams.
+4. A wonderful job of describing how thinking works.
+5. Thought-provoking questions and answers based on a combination of sound science and educated speculation.
+6. The art of recreating brain processes in machines. "There is more parallel between brains and computers than may be apparent." Great stuff!
+7. Great information on how memories truly work.
+8. Hierarchies of units of functionality in natural systems.
+9. How the neocortex must work. The Pattern Recognition Theory of Mind (PRTM). The main thesis of this book. The importance of redundancy. Plenty of details.
+10. Evolution...it does a brain good. Legos will never be the same for me again.
+11. The neocortex as a great metaphor machine. Projects underway to simulate the human brain such as Markram's Blue Brain Project.
+12. Speech recognition and Markov models. Author provides a lot of excellent examples.
+13. The four key concepts of the universality and feasibility of computation and its applicability to our thinking.
+14. A fascinating look at split-brain patients. The "society of mind." The concept of free will, "We are apparently very eager to explain and rationalize our actions, even when we didn't actually make the decisions that led to them." Profound with many implications indeed.
+15. The issue of identity.
+16. The brain's ability to predict the future. The author's own predictive track record referenced.
+17. The laws of accelerating returns (LOAR), where it applies and why we should train ourselves to think exponentially.
+18. The author provides and analyzes objections to his thesis. In defense of his ideas. Going after Allen's "scientist's pessimism."
+19. The evolution of our knowledge.
+20. Great notes and links beautifully.
+
+Negatives:
+1. The book is uneven. That is, some chapters cover certain topics with depth while others suffer from lack of depth. Some of it is understandable as it relates to the limitations of what we currently know but I feel that the book could have been reformatted into smaller chapters or subchapters. The book bogs down a little in the middle sections of the book.
+2. Technically I disagree with the notion that evolution always leads to more complexity. Yes on survival but not necessarily on complexity.
+3. The author has a tendency to cross-market his products a tad much. It may come across as look at me...
+4. A bit repetitive.
+5. Sometimes leaves you with more questions than answers but that may not be a bad thing...
+6. No formal separate bibliography.
+
+In summary, overall I enjoyed this book. Regardless of your overall stance on the feasibility of artificial intelligence no one brings it like Ray Kurzweil. His enthusiasm and dedication is admirable. The author provides his basic thesis of how the brain works and a path to achieve true artificial intelligence and all that it implies. Fascinating in parts, bogs down in other sections but ultimately satisfying. I highly recommend it!
+
+Further suggestions: "Subliminal: How Your Unconscious Mind Rules Your Behavior" by Leonard Mlodinow, "The Believing Brain: From Ghosts and Gods to Politics and Conspiracies---How We Construct Beliefs and Reinforce Them as Truths" by Michael Shermer, "The Scientific American Brave New Brain: How Neuroscience, Brain-Machine Interfaces, Neuroimaging, Psychopharmacology, Epigenetics, the Internet, and ... and Enhancing the Future of Mental Power" by Judith Horstman, "The Blank Slate: The Modern Denial of Human Nature" by Steven Pinker, "Who's in Charge?: Free Will and the Science of the Brain" and "Human: The Science Behind What Makes Us Unique", by Michael S. Gazzaniga, "Hardwired Behavior: What Neuroscience Reveals about Morality 1st Edition by Tancredi, Laurence published by Cambridge University Press Paperback" by Laurence Tancredi, "Braintrust: What Neuroscience Tells Us about Morality" by Patricia S. Churchland, "The Myth of Free Will" by Cris Evatt, "SuperSense" by Bruce M. Hood and "The Brain and the Meaning of Life" by Paul Thagard.

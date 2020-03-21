@@ -1,0 +1,510 @@
+Author_expertise,Book_readability,FP,Book_Sci-content,Book_worthiness,Book_price-Value,BOOK,AUTHOR
+written,volume,eradicated,arguments,humanity,dollars,book,believes
+author,bit,goes,mistakes,known,suggest,book,researchers
+understanding,authors,xx,models,recommend reading,buy,book,authors
+vision,chapter,able,lack,useful,book,book,ray
+kurzweil,chapter,come,includes,written,expressed,book,hesitate to trust
+audience,concise,texts,arguments,familiar,buy,attract,author
+non technical,look,time,believes that all the current technological trends will continue,sure this book was awesome,buy,book,author
+leads,list,gotten,worst,book,weighty book,sure this book was awesome,hesitation
+enthusiasm,errors,compsci,reads,questions,,book,author
+author,errors,consist,exposition,use,,book,fan
+gone to such lengths to establish,errors,point,useful,background,,book,author
+air,errors,happen,makes,benefit,,book,kurzweil
+author,like reading,able,uses,considered adequate,,book,kurzweil
+shows,symbols,tried,machine learning,understand,,book,kurzweil
+optimist,chapter,decades,concepts,textbook,,suppose the book can be considered,ray kurzweil
+involved,chapter,addition,concepts,field,,book,bubbling
+roszak,chapter,time,text,version,,book,bubbling
+author,sentences,drm'd pdf file,skimmed,written,,book,dismisses
+ray,sentences,idea,concepts,easy to understand,,misleading,optimisim
+,order,destruction,discuss,stars,,articles,kurzweil
+,tell,agree,topics,role,,book,author
+,kindle conversion,use,covered,amazing,,book,author
+,missed,sense,regression,textbook,,book,barrat
+,book,opinions,presented,understanding,,book,barrat
+,sections,capital k,information,references,,book,author
+,pages,300,methods,computer science textbook,,book,author
+,chapters,feeling,work,waste,,book,authors
+,book,dictionary,idea,written,,book,author
+,pages,overview,intuition,understand the difference between useful insight and mindless spouting,,book,author
+,pages,appreciate,meant,stars,,book,ray kurzweil
+,pages,appreciate,algorithms,recommend purchasing,,book,tendency
+,charts,humans,algorithms,version,,book,thesis
+,index,personality,machine learning,recommend purchasing,,think this book needs,ray
+,charts,personalities,match,years,,review,author
+,chapters,personalities,text,lightweight,,book,author
+,chapters,appear,minded,actionable,,book,author
+,written,equate,ai,complicated to understand,,parts,author
+,explaining,emotion,articles,useful,,book,author
+,chapters,emotion,feels,ready,,book,author
+,illustrations,researchers,reference,book,,point out that the book is very math heavy,author
+,language,mind,mentions,convinced,,book,author
+,organized,neuroscience,elements,reader,,book,author
+,notation,ability,mentions,teach,,book,author
+,hard to read,time,mention,write machine learning,,book,author
+,svm applications,taken,examples,time,,bother to sit,charles
+,reading,point,understand the difference between useful insight and mindless spouting,pay,,problems,author
+,chapter,body,topic,stars,,book,case
+,places,difference,text,intelligence,,book,reveals that he is aware
+,edits,mr,deal,recommend,,book,author
+,chapter,mr,literature,stars,,review,waste
+,sentences,k,plugged,enjoy,,books,writes
+,chapters,k,contained,readers,,book,regarded
+,chapters,lies,networks,book,,book,author
+,diagrams,premise,reference book,learn,,books,author
+,chapter,happens,purpose,valuable,,buy,author
+,organized,someting,review,book,,book,author
+,organizes,corner,opencv,familiar,,book,author
+,figures,kept,opencv code,learn to live,,book,author
+,ask,aviation,code,book,,book,look
+,optimization chapter,observed,cyborg,neocortex,,book,jeff hawkins
+,prose,advancement,knowledge,questions,,book,model hawkins
+,diagrams,says,veracity,reader,,book,author
+,sample chapter,happened,reader,theory,,book,author
+,clear,ground,extrapolations,shows,,book,padlock
+,written,stuck,factors,learned,,book,sacrifices communicating
+,chapters,occur,covers,follow,,book,offered
+,telling,fails,point out that the book is very math heavy,book,,book,nice
+,chapter,failure,finding,textbook,,book,authors
+,long,line,code,written,,brain,course
+,chapter,right,write machine learning,textbook,,brain,lego
+,chapter,struggling,time,thought provoking book,,brain,continues to assert
+,chapters,easier,intelligence,difficulty,,brain,capabilities
+,clarity,shrift,felt,topic,,brain,implications
+,space,choice,somebody,created,,book,kurzweil
+,named,choice,tosses,questions,,book,kurzweil
+,comprehensive,things,surface,stars,,book,ray kurzweil
+,chapters,type,subject,biography,,book,ray kurzweil
+,quoted,people,subject,references,,book,delivered
+,book,felt,readers,reader,,brain,kind
+,mm6,promise,science,provide,,book,humor
+,chapters,used,science,written,,book,counterweigth efforts
+,charts,history,code discrepancies,written,,book,guy
+,tiny,account,contained,background,,book,barrat
+,illustrations,ignored,code,easy to understand,,book,charles
+,chapter,ability,disappointed,version,,problem,job
+,experts,decisions,implications,incorrect,,book,coding style
+,easy to read,feels,sciences,field,,book,authors
+,errors,attention,disagree,field,,misleading,authors
+,set,cookbook,works,role,,book,authors
+,tips,programmer,questions,reader,,fun,feynman
+,chapter,programmer,memories,role,,book,authors
+,pages,returned,lot,understanding,,book,authors
+,coherent,0.1,book bogs,application,,book,authors
+,abridged,debug,answers,machines,,book,anniversary meeting
+,pages,use,algorithm,helpful,,book,author who
+,grammar,world,topics,apply,,books,surprised how author even know
+,beginning,booklets,cover,recommend,,book,surprised how author even know
+,,rheingold,examples,topics,,book,author
+,,vitamin supplements,intelligence,book,,book,author
+,,said,science,source,,book,pulls
+,,voiced,reveals,written,,book,technologies
+,,singularity,book,understanding,,books,gift
+,,context,strengths,reader,,book,steep that come
+,,think session,theory,questions,,book,want to meet
+,,sees,theory,enjoy,,book,asking
+,,ethics,networks,enjoy,,book,author
+,,mind,theory,useful,,book,author
+,,work,networks,book,,book,author
+,,make,theory,guide,,book,author
+,,underway,machine learning,understand,,book,author
+,,applies,mentions,worked,,book,author
+,,objections,example,recommended,,book,tibshirani
+,,brings,goes for the other topics that it covers,understand,,book,come to expect
+,,want,topic,recommend,,brain,amibroker
+,,used,cover,stars,,lit chambers ordinary books provide,amibroker
+,,premise,videos,written,,book,amibroker
+,,happens,concepts,recommend,,book,oracle
+,,time,approach,stars,,book,emergent mob wisdom
+,,universe,climax,stars,,book,computer modeling
+,,node,messy,stars,,data wand,predictions
+,,lifting,topic,book,,review,predictions
+,,tasks,nltk library,computer,,book,ray
+,,min youtube,left,understand how this machine works,,book,position
+,,lots,fundamental that siefe believes,contribution,,book,obstacle
+,,emphasize,information,data,,book,
+,,make,information,written,,book,
+,,remains,information,apply,,book,
+,,nltk,information,reader,,book,
+,,helps,information,aimed,,book,
+,,time,information,owe,,book,
+,,time,information,written,,book,
+,,cause,information,role,,book,
+,,leads,information,recommend,,book,
+,,universe,examples,cartesian,,book,
+,,representation,implications,fun,,book,
+,,moves,computing,recommend,,theory,
+,,violate,surprises,recommend,,course videos,
+,,qubit,subject,questions,,book,
+,,way,details,understand,,book,
+,,account,details,understand,,brain,
+,,hodges,discovered turing,learn,,brain,
+,,agenda,lectures,learned,,brain,
+,,serves,algorithms,stars,,brain,
+,,played,described,stars,,brain,
+,,wished,mathematics,compares,,book,
+,,seeds,algorithm,book,,book,
+,,lose,mathematics,maccormick brush,,swimming pool,
+,,decisions,explanations,understand,,book,
+,,analog world,topics,helpful,,book,
+,,signal,explanations,helpful,,read,
+,,shows that elementary presentation is possible,concepts,understanding,,ish book,
+,,used,needed,understanding,,book,
+,,used,emphasis,book,,book,
+,,fit,explained,learn,,book,
+,,criticisms,contains,starting point,,tie everything together for you in a way that i have n't seen,
+,,hand comparison,kernel trick,background,,willing to learn,
+,,minor,ideas,studied,,sqrrr technique,
+,,edits,proposed,learned,,month,
+,,regard,concepts,book,,book,
+,,researchers,concepts,recommend,,book,
+,,view,equations,recommend,,book,
+,,used,described,going to read,,review,
+,,chess player,difference,worth,,book,
+,,views,chapters,willing to learn,,books,
+,,remains,arguments,falls,,book,
+,,remains,equations,worth,,essence,
+,,gone,discussed,recommend,,book,
+,,ideas,exercises,recommend,,explains,
+,,ideas,direct,cover to cover,,books,
+,,progress,needs,user data,,level overview,
+,,musings,topics,guide,,breadth,
+,,building,discusses,heard about amazon echo and planning to buy,,book,
+,,stymied,presented,field,,compiler books,
+,,panalogy,concept,understand,,book,
+,,intepretations,concept,grune,,book,
+,,understood,machine,understand,,book,
+,,different,machine,references,,book,
+,,want,machine,targets,,book,
+,,emotion,machine,book,,book,
+,,different,intelligence,textbook,,books,
+,,prefers,reasoning patterns,written,,development,
+,,papers,discuss,suitable,,challenges,
+,,learning,algorithms,disappoint,,book,
+,,looks,method,reader,,books,
+,,come,introduced,byte magazine,,book,
+,,thing,style,lives,,makes this book so perfect,
+,,need,reader,reader,,book,
+,,ideas,topics,learned,,book,
+,,developments,like that the methods are introduced,dream,,book,
+,,tufte subsets,examples,saying,,book,
+,,perspective,statistics,paper,,book,
+,,formalisms,concentration,paper,,text books,
+,,s.,book,paper,,perl book,
+,,recall,text,paper,,thorough,
+,,fixed,topic,analysis,,book,
+,,known,formalisms,friends,,book,
+,,aims,insights,understand,,book,
+,,took,monograph,exposing,,books,
+,,spent,hypotheses,computer vision,,mm6,
+,,joining,patterns,seeking to learn,,books,
+,,conversations,mention,essential reading,,books,
+,,hunger,theory,understanding,,book,
+,,goes,intelligence,scientist who,,review,
+,,use,flashes,focus,,books,
+,,set,built,version,,books,
+,,mind,book,love,,advantage,
+,,work,understand how this machine works,readers,,book,
+,,point,explanations,intellect,,thoughtful,
+,,want,deliver,better,,book,
+,,things,warm,studied,,approach,
+,,remains,liked,gives,,book,
+,,moves,coverage,readers,,relevant on too many levels to thoroughly list,
+,,signal,data,believe it will appeal,,book,
+,,understood,cutting,group,,brain,
+,,wait,makes difficult mathematical concepts accessible,written,,book,
+,,listened,concepts,readers,,brain,
+,,ip,data,written,,reviews,
+,,broken,discuss,background,,account,
+,,hit,information,version,,book,
+,,waves,methods,readers,,book,
+,,level language software constructions,techniques,learn,,book,
+,,stop,data,field,,book,
+,,electrons,data,studied,,book,
+,,realm,data,elements,,book,
+,,clearer,ch,book,,book,
+,,joy,include,learn,,book,
+,,bad,phenomenon,kindle version,,book,
+,,material,needs to sharpen,want to build,,book,
+,,going,arguments,reader,,book,
+,,goal,arguments,book,,book,
+,,criticisms,reveals that he is aware,going to benefit,,teached,
+,,went,examples,need to read,,book,
+,,went,networks,hard to apply,,supplanted,
+,,save,swell,understanding,,book,
+,,technique,discussed,provoking,,book,
+,,john,website,recommend,,algorithms book,
+,,question,model hawkins,comfortable,,evening,
+,,researchers,intelligence,resource,,book,
+,,time,intelligence,analysis,,book,
+,,considered,discovered,know,,review,
+,,ability,cortex,withing hours,,book,
+,,problem,demonstrates,applying,,book,
+,,need,analyzes,application,,books,
+,,philosophers,iq test,application,,books,
+,,arise,learn,software development background,,books,
+,,advances,understand,year,,books,
+,,need,polls,book,,published,
+,,question,includes,easy to understand,,book,
+,,bit,information,purchase this book expecting,,book,
+,,times,thing,owe,,hardcover book,
+,,people,sense knowledge,mathematics,,purchase this book expecting,
+,,knowledge,stock market,math reference book,,book,
+,,going,information,engine,,book,
+,,judgment,information,background,,books,
+,,mistake,discussed,math classes,,brain,
+,,unreliable,computer concepts,going,,book,
+,,clue,insights,money,,book,
+,,read,families,book,,book,
+,,want,data integrity,decision,,book,
+,,problem,enable a programmer to easily assemble,try to slog,,forecasts,
+,,knowledge,uses,starts,,book,
+,,need,switches,wasted hours studying,,book,
+,,patterson,paint,,,book,
+,,liquidity,examples,,,book,
+,,spread,algorithms,,,book,
+,,market,discusses,,,review,
+,,differentiation,data,,,,
+,,orders,theory,,,,
+,,stock market,theory,,,,
+,,little,theory,,,,
+,,bit,road map,,,,
+,,know,approaching,,,,
+,,work,suggests,,,,
+,,difficult,level approach,,,,
+,,works,accounts,,,,
+,,provide,examples,,,,
+,,enjoyed,includes,,,,
+,,advantage,theory,,,,
+,,living,implications,,,,
+,,phase commit,chapter,,,,
+,,criteria,described,,,,
+,,feature,cook,,,,
+,,modulo,described,,,,
+,,multiplication,described,,,,
+,,trivial,chapter,,,,
+,,principle,chapter,,,,
+,,digit numbers,covers,,,,
+,,maccormick luck,information,,,,
+,,want,robot building book,,,,
+,,course,inevitably,,,,
+,,isl,ai,,,,
+,,touch,gaussian modeling,,,,
+,,society,limited,,,,
+,,know,topics,,,,
+,,idea,types,,,,
+,,like,technique,,,,
+,,want,gives the exact algorithms to implement,,,,
+,,ones,mart,,,,
+,,engineer,areas,,,,
+,,asked,gives the exact algorithms to implement,,,,
+,,asked,techniques,,,,
+,,credit,regression,,,,
+,,started,theory,,,,
+,,apt,technique,,,,
+,,known,cut across both fields of traditional statistics and inference and the machine learning,,,,
+,,know,adopted,,,,
+,,time,concepts,,,,
+,,happens,algorithms,,,,
+,,happened,methods,,,,
+,,going,grounding,,,,
+,,day,connection,,,,
+,,end,algorithm,,,,
+,,way,cover to cover,,,,
+,,worried,need to make,,,,
+,,kind,gives you all the information that you would need,,,,
+,,extinct,agents,,,,
+,,dinged,constraint logic programming,,,,
+,,border elements,discovery systems,,,,
+,,prod,discovery systems,,,,
+,,pocket,opportunity,,,,
+,,stupidity,discuss,,,,
+,,want,mention,,,,
+,,course,approach,,,,
+,,strengths,learning theory,,,,
+,,results,belief networks,,,,
+,,experience,offending,,,,
+,,numpy,consequences,,,,
+,,belief,lot,,,,
+,,known,compare,,,,
+,,set,tend to assume,,,,
+,,going,algorithms,,,,
+,,going,information,,,,
+,,programmer who,covered,,,,
+,,series,algorithms,,,,
+,,mind,information,,,,
+,,wish,algorithms,,,,
+,,commands,book attacks,,,,
+,,came,topics,,,,
+,,based,topics,,,,
+,,knowledge,topics,,,,
+,,area,algorithms,,,,
+,,progress,tests,,,,
+,,feel,algorithms,,,,
+,,universe,explains,,,,
+,,levels,text,,,,
+,,laws,represented,,,,
+,,law,prolog,,,,
+,,outcome,pattern recognition,,,,
+,,gravity,goal,,,,
+,,months,algorithms,,,,
+,,got,text,,,,
+,,lot,text,,,,
+,,excited,algorithms,,,,
+,,hard,techniques,,,,
+,,comes,techniques,,,,
+,,decided,techniques,,,,
+,,want,math,,,,
+,,values,enrichment,,,,
+,,posterior odds,picture overview,,,,
+,,shows,points,,,,
+,,way,differences,,,,
+,,rumination,imagine,,,,
+,,tried,covers,,,,
+,,think,step run explanation,,,,
+,,times,includes,,,,
+,,help,tell you to use,,,,
+,,lot,website,,,,
+,,line,offer,,,,
+,,means,knowledge,,,,
+,,turing,opencv,,,,
+,,job,website,,,,
+,,start,code,,,,
+,,cut,techniques,,,,
+,,needless,geared,,,,
+,,mentally,mg,,,,
+,,good,referenced,,,,
+,,job,consise tutorial,,,,
+,,freedom,devoted to topics that a modern scientist or engineer would need,,,,
+,,come,topics,,,,
+,,path,topics,,,,
+,,use,landscape,,,,
+,,think,offering,,,,
+,,read,mountains,,,,
+,,need,diamond,,,,
+,,computer vision,jobs,,,,
+,,computer vision tutorial,information,,,,
+,,look,statistics,,,,
+,,problem,data,,,,
+,,job,robots,,,,
+,,lapak,capabilities,,,,
+,,c++,computing techniques,,,,
+,,tutorials,build,,,,
+,,changing,materials,,,,
+,,answers,lodge,,,,
+,,amazon,approach,,,,
+,,relics,sentence,,,,
+,,lifestyles,wondered,,,,
+,,come,matrix calculus,,,,
+,,come,learn,,,,
+,,disposes,post grad,,,,
+,,comprised,insights,,,,
+,,real,machine learning,,,,
+,,tools,text,,,,
+,,beginning,algorithms,,,,
+,,work,examples,,,,
+,,things,fine,,,,
+,,lot,math,,,,
+,,makes me wonder,consists,,,,
+,,mistake,wants,,,,
+,,viewpoint,wants,,,,
+,,need,approaches,,,,
+,,need,learning process,,,,
+,,types,perceptrons,,,,
+,,paradigmatic,learning machines,,,,
+,,learning problem,examples,,,,
+,,supervisor,support vector machines,,,,
+,,generalize,methods,,,,
+,,computationally,subject,,,,
+,,elements,examples,,,,
+,,elements,gives reasons why he does not think neural networks are well controlled,,,,
+,,reading,discovered,,,,
+,,problems,discussed,,,,
+,,attention,kernel function,,,,
+,,watered,decision function,,,,
+,,mind,derivations,,,,
+,,focus,derivations,,,,
+,,principal,derivations,,,,
+,,great,unique,,,,
+,,makes,methods,,,,
+,,considered,examples,,,,
+,,years,math,,,,
+,,trader,math,,,,
+,,stockfinder,regression methods,,,,
+,,execution,basics,,,,
+,,makes,given,,,,
+,,story,concepts,,,,
+,,brains,work,,,,
+,,understood,machine,,,,
+,,scary,machine learning,,,,
+,,trying,concepts,,,,
+,,confirmation,algorithms,,,,
+,,judgement,examples,,,,
+,,time,code,,,,
+,,want,cover,,,,
+,,penrose,approach,,,,
+,,technology,concepts,,,,
+,,century,code,,,,
+,,started,range,,,,
+,,bother,brain function,,,,
+,,exam,existence,,,,
+,,testing objectives,concept,,,,
+,,drs,concepts,,,,
+,,,topics,,,,
+,,,concept,,,,
+,,,echo,,,,
+,,,need to google,,,,
+,,,answers,,,,
+,,,text,,,,
+,,,ai,,,,
+,,,information,,,,
+,,,ai,,,,
+,,,machine learning techniques,,,,
+,,,asset,,,,
+,,,concepts,,,,
+,,,bandy call,,,,
+,,,way,,,,
+,,,use,,,,
+,,,iris classification problem,,,,
+,,,follows,,,,
+,,,exposure,,,,
+,,,example,,,,
+,,,management,,,,
+,,,machine learning,,,,
+,,,concepts,,,,
+,,,concepts,,,,
+,,,regression,,,,
+,,,algorithms,,,,
+,,,examples,,,,
+,,,examples,,,,
+,,,theory,,,,
+,,,example,,,,
+,,,approach,,,,
+,,,concept,,,,
+,,,programming languages,,,,
+,,,implementation,,,,
+,,,iris examples,,,,
+,,,sense,,,,
+,,,message,,,,
+,,,math principles,,,,
+,,,anyone who,,,,
+,,,half,,,,
+,,,chapter,,,,
+,,,exercises,,,,
+,,,topics,,,,
+,,,mathematics,,,,
+,,,exercises,,,,
+,,,believes that computer modeling of brain functioning will yield,,,,
+,,,algorithms,,,,
+,,,examples,,,,
+,,,examples,,,,
+,,,science,,,,
+,,,ai,,,,
+,,,example,,,,
+,,,surpass,,,,
+,,,code,,,,
+,,,intelligence,,,,
+,,,text,,,,
+,,,information,,,,
+,,,website,,,,

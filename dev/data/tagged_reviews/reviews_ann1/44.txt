@@ -1,0 +1,23 @@
+Most of what other reviewers say has factual accuracy. But first I must say that the "subset" of people who enjoy CLEVELAND (WILLIAM S.)'s works will enjoy the Grammar of Graphics book.
+
+Sorry, but people who enjoy TUFTE are not potential candidates for this book because Tufte has way too little to say about graphics (despite his books, lectures, which ultimately are about $$$ for Tufte). Tufte's main thing is his admonition "don't do chart junk" followed by his second favorite thing: join with him and disparage the "cognitive style" of PowerPoint. The former is true, but is not terribly subtle. As for the second, the tool of PowerPoint need not be used in the boring "cognitive style" with bullets and "branding". I for one have made plenty of PowerPoint presentations totally unlike these.
+
+The summary of "subset"s of folks: William S. Cleveland followers: yes, you'll love this book; those who mistake Tufte for the ultimate graphical guru probably will find this book "too much". Note that the author of the Grammar of Graphics book literally says how Cleveland wins the citations contest in his book. No surprise, because Cleveland has made many creative developments for statistical graphics and has also studied graphical perception. (As just ONE of a myriad of examples: residuals are very badly "mis-read" by our perception when there is a steeply sloped curve; residual in y- direction may be very large, but we see only a very much shorter perpendicular distance.)
+
+(Finally, in fairness, Tufte has had two good ideas -- but only two compared to Cleveland's several dozen. Tufte's tics-at-data (for x- and y- separate marginal distributions [essentially 1-D scatterplots made by tics]) and Tufte's white-grid-run-thru-of-bar-plots are his two contributions of any substance.)
+
+OK. Thanks for bearing with my review which, thus far, has covered the Cleveland and Tufte subsets of readers. Time for the Grammar of Graphics book character itself --without context of being a Cleveland reader or a Tufte Reader.
+
+If you have not experienced reading Cleveland's books (Elements of Graphing Data and/or Visualizing Data), I admit that this book will be more difficult for you.
+
+The above point aside, you should know, like other reviewers said, that this book is not a how-to. Nor is it like Cleveland's books -- chock full of guideline principles. There are plenty of principles in the book, but with its size, the CONCENTRATION of principles to pages of text is low.
+
+THE BEST PERSPECTIVE ON THIS BOOK: The best perspective is to not sweat consuming every little detail. Especially skip all the formalisms (even though this is ostensibly the topic of the book!) Instead, just enjoy. This is one book definitely to apply your highlighter to. Forget the formalisms completely. Concentrate on the important points made throughout -- but you'll need to highlight them. If you come to the book from Cleveland (William S.) it will be easier for you to spot the important points. Just don't think you have to learn details and formalisms.
+
+One tip -- Cleveland reader or not -- whenever there is any text suggesting a perspective, that text may well be calling for your highlighter -- not always, but often.
+
+Go for principles, perspectives and ignore formalisms. You'll be more at ease and enjoy the book.
+
+If you think you might do both William S. Cleveland's books AND the Grammar of Graphics book -- no question, do Cleveland first (Elements of Graphing Data [more basic] and Visualizing Data [more advanced statistical questions addressed graphically]).
+
+P.S. I don't recall if other reviewers mentioned it, but Wilkinson (author of Grammar of Graphics) is creator of the SYSTAT statistical software package.

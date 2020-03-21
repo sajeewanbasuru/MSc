@@ -1,0 +1,17 @@
+T1	AUTHOR 25 48	:: optimist:ex
+T2	AUTHOR 104 140	:: positively bubbling:im, enthusiasim:im
+T3	AUTHOR 310 370	:: passionate evangelical:ex, reasoned scientist:ex
+T4	AUTHOR 1201 1239 ::	backup:im, basic premise:im
+T5	Book_Sci-content 2410 2442	:: book:ENTITY, based:im, hard science:im
+T6	Book_Sci-content 2449 2536	:: positively larded:im, science:ex, tended to glaze:im
+T7	AUTHOR 2553 2582	:: very critical:im
+T8	AUTHOR 2593 2707	:: acknowledge:im, existence of contrary opinion:im, cautionary thoughts:im
+T9	Author_expertise 2805 2851	:: well informed scientist:ex
+T10	Book_worthiness 2979 2997	:: unimpressed:im
+T11	AUTHOR 3344 3410	:: distinction:ex, misleading:im, disingenuous:im
+T12	Book_Sci-content 3415 3473	:: veracity:ex, book:ENTITY
+T13	Book_readability 3482 3516	:: book:ENTITY, far too long:im
+T14	Book_Sci-content 3521 3654	:: repeats:im, points:ex, mere repetition:im, convinced:im
+T15	BOOK 3660 3703	:: book:ENTITY, simply annoying:im
+T16	AUTHOR 3839 3883 ::	optimisim about the future:im, refreshing:im
+T17	Book_Sci-content 4089 4238	:: predictions about the future:ex, predictions:ex, simply extrapolations of current trends:im

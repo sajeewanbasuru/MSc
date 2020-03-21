@@ -1,0 +1,18 @@
+T7	BOOK 5 9	book
+T25	AUTHOR 1992 1995	his
+T26	Author_expertise 1996 2005	arguments
+T28	Book_Sci-content 2236 2249	name-dropping
+T1	Book_worthiness 13 28	very well known
+T2	Book_worthiness 38 168	question how many of the rather rapidly advancing technological trends will continue and how they will influence humanity's future
+T3	Book_Sci-content 247 258	much weaker
+T4	Book_readability 314 326	thick volume
+T5	Book_Sci-content 375 399	uncritical extrapolation
+T8	Book_Sci-content 337 373	50's style naive technology-optimism
+T9	Book_Sci-content 462 506	somewhat-more-than-half knowledge of biology
+T6	AUTHOR 1107 1124	strongly believes
+T10	Book_Sci-content 1039 1067	arguments are not very sound
+T11	Book_Sci-content 1509 1524	mistakes models
+T12	Book_Sci-content 1678 1699	certainly good models
+T13	Book_Sci-content 1811 1894	use of quotations of old or dead wise men to cover up the lack of content in a book
+T14	Book_Sci-content 2365 2404	chapters are only made up of quotations
+T15	BOOK 2446 2476	involuntarily interesting book

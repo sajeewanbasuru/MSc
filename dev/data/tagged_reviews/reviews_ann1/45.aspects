@@ -1,0 +1,6 @@
+T1	Book_worthiness 45 69  :: extremely useful:im
+T2	Book_worthiness 89 132 :: book:ENTITY, used:im in classroom settings
+T3	Book_readability 144 154 :: typos:ex
+T4	Book_Sci-content 232 267 ::	book:ENTITY, new insights:ex
+T5	Book_price-Value 387 405 ::	book:ENTITY, pricey:im
+T6	Book_price-Value 444 468 ::	money:ex, well spent:im

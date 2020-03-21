@@ -1,0 +1,5 @@
+T1	Book_Sci-content 273 330	more of a "Grad Student's Guide to Everyday Python Usage"
+T2	Book_worthiness 342 484	it would be very valuable to a mathematics Grad student without too much programming or shell experience, looking for an alternative to Matlab
+T3	Book_Sci-content 504 552	very little "Computational Science" in this book
+T4	Book_readability 641 708	very verbose 700+ pages, all in an unexciting academic LaTeX format
+T5	Book_readability 721 881	works through idiom after idiom for accomplishing different tasks in fairly stand-alone sub-sections without much of a feeling of conceptual "flow" between them

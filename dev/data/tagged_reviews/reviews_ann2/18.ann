@@ -1,0 +1,17 @@
+T1	AUTHOR 96 140	Mr K is positively bubbling with enthusiasim
+T2	AUTHOR 297 370	comes across more like a passionate evangelical than a reasoned scientist
+T3	Book_Sci-content 536 734	maintains that the pace of technological change (and by technology he means the really cool technologies, like infotech, biotech, and nanotech) is not simply increasing, but increasing exponentially
+T4	Book_Sci-content 1072 1098	even gives us a date: 2045
+T5	Book_Sci-content 2388 2442	It's not that Mr. K's book isn't based on hard science
+T6	Book_Sci-content 2449 2479	positively larded with science
+T7	AUTHOR 2553 2582	he doesn't seem very critical
+T8	Book_Sci-content 2590 2707	he does acknowledge the existence of contrary opinion, he quickly (albeit politely) dismisses any cautionary thoughts
+T9	Author_expertise 2815 2851	a brilliant, well-informed scientist
+T10	Book_Sci-content 3022 3098	a few pages talking about the increases that have occured in life expectancy
+T11	AUTHOR 3183 3244	he fails to distinguish between life exoectancy and life span
+T12	Book_Sci-content 3424 3473	wonder about the veracity of the rest of the book
+T13	Book_readability 3499 3516	it's far too long
+T14	Book_Sci-content 3521 3547	repeats his points so much
+T15	BOOK 3660 3702	some parts of the book are simply annoying
+T16	AUTHOR 3839 3883	his optimisim about the future is refreshing
+T17	AUTHOR 4082 4171	Mr. K. doesn't seem to remember that virtually all predictions about the future are wrong

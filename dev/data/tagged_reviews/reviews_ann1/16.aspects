@@ -1,0 +1,11 @@
+T1	Book_worthiness 88 144	:: very useful:im, learning:im
+T2	Book_Sci-content 159 214 ::	reference book:im, self-learning book:im
+T3	Book_Sci-content 234 320 ::	include:im, material in the field:im, huge book:ENTITY
+T4	Book_price-Value 353 385 ::	most expansive book:ex
+T5	Book_worthiness 515 579	 :: book:ENTITY, rushed:im
+T6	Book_readability 590 681 :: 	typo:ex, page:ex, typo:ex, missed:im
+T7	Book_readability 696 750	:: algorithm references:ex, text:ex, wrong numbers:im
+T8	Book_readability 789 840	:: rushed:im, book:ENTITY, well organized:im
+T9	Book_readability 987 1040	:: coherent narrative:im, text:ex
+T10	Book_worthiness 1101 1171	:: disappointed:im, book:ENTITY, hype:im, book:ENTITY
+T11	Book_Sci-content 1191 1252	:: serious review:im, proofreading:im

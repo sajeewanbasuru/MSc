@@ -1,0 +1,4 @@
+T1	Book_worthiness 0 26;27 98;99 169;170 216	Buy this book only if you: 1. Know the basics of natural language processing (NLP) or linguistics; 2. Know the Python programming language or you're willing to learn it; 3. Are using the NLTK library or plan to do so
+T2	Book_readability 699 728	irst chapters are a bit messy
+T3	Book_worthiness 809 862	Beginners may have some difficulty sorting things out
+T4	Book_worthiness 942 1009	realize that you would never understand this topic without the book

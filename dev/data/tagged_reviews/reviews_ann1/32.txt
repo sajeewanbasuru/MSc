@@ -1,0 +1,8 @@
+Buy this book only if you:
+1. Know the basics of natural language processing (NLP) or linguistics;
+2. Know the Python programming language or you're willing to learn it;
+3. Are using the NLTK library or plan to do so.
+
+NLTK is a Python library that offers many standard NLP tools (tokenizers, POS taggers, parsers, chunkers and others). It comes with samples of several dozens of text corpora typically used in NLP applications, as well as with interfaces to dictionary-like resources such as WordNet and VerbNet. No FrameNet, though. NLTK is well documented, so you might not need this book initially. However, it definitely helps to have it on your desk if you are serious about using NLTK.
+
+The first chapters are a bit messy, as they attempt to introduce all three themes (NLP, NLTK and Python) together. Beginners may have some difficulty sorting things out. By the time you reach the WordNet section, you either got lost in the forest, realize that you would never understand this topic without the book, or both. However, if you are a bit patient and try out all simple code examples, you'll make it eventually. In my opinion, NLTK remains the simplest, most elegant and well rounded library of its kind.

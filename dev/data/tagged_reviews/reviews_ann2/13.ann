@@ -1,0 +1,9 @@
+T1	Book_worthiness 8 25	an excellent book
+T2	Book_worthiness 36 95	cannot recommend purchasing the Kindle version of this text
+T3	BOOK 97 112	It is atrocious
+T4	Book_readability 345 360	no page numbers
+T5	Book_readability 466 492	tons of hyphenation errors
+T6	Book_readability 498 569	delineations between figure notes and the text are almost imperceptible
+T7	Book_readability 630 666	it is difficult to read and navigate
+T8	Book_readability 124 183	subject headings inserted after the subject is spoken about
+T9	Book_readability 202 246	many heading stacked up on top of each other

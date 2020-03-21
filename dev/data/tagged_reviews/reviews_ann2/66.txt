@@ -1,0 +1,5 @@
+Segaran has done an excellent job of explaining complex algorithms and mathematical concepts with clear examples and code that is both easy to read and useful. His coding style in Python often reads as clearly as pseudo-code in algorithm books. The examples give real-world grounding to abstract concepts like collaborative filtering and bayesian classification.
+
+My favorite part is how he shows us code (gives it to us!) that goes out into the world, grabs masses of data and does interesting things with it. The use of a hierarchical clustering algorithm to dig into people's intrinsic desires in life as expressed in zebo is worth the price of the book alone. The graph that shows a strong connection between "wife", "kids", and "home" but a different connection between "husband", "children", and "job" is IMHO just fascinating.
+
+Gems like that make this book worth reading cover to cover. After that it can happily hang out on your shelf as a reference anytime you need to build something to mine user data and extract the wisdom of crowds.

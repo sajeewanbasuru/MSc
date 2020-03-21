@@ -1,0 +1,6 @@
+T1	Book_worthiness 5 71	:: guide:ENTITY, quick:im, easy to use:im
+T2	Book_worthiness 165 193	:: learned:im,  book:ENTITY
+T3	Book_Sci-content 212 236 ::	book:ENTITY, very informative:im
+T4	Book_worthiness 238 294	:: book:ENTITY, walk through manual:im
+T5	Book_worthiness 313 368	:: really understand:im, book:ENTITY
+T6	Book_worthiness 456 484	:: highly recommended:im, book:ENTITY

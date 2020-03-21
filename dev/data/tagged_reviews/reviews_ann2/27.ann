@@ -1,0 +1,40 @@
+T1	Book_worthiness 102 125	a very interesting book
+T2	Book_Sci-content 131 239	presents the pattern recognition theory of mind (PRTM), which describes the basic algorithm of the neocortex
+T3	Author_expertise 505 580	The one and only, futurist, prize-winning scientist and author Ray Kurzweil
+T4	Book_Sci-content 603 665	journey of the brain and the future of artificial intelligence
+T5	Book_readability 685 698	352-page book
+T6	Book_worthiness 1163 1200	Well researched and well-written book
+T7	Author_expertise 1202 1287	The author's uncanny ability to make very difficult subjects accessible to the masses
+T8	AUTHOR 1292 1338	A great topic in the "mind" of a great thinker
+T9	Book_Sci-content 1343 1375	Great use of charts and diagrams
+T10	Book_worthiness 1380 1428	A wonderful job of describing how thinking works
+T11	Book_Sci-content 1433 1537	Thought-provoking questions and answers based on a combination of sound science and educated speculation
+T12	Book_Sci-content 1543 1591	he art of recreating brain processes in machines
+T13	Book_Sci-content 1685 1729	Great information on how memories truly work
+T14	Book_Sci-content 1734 1790	Hierarchies of units of functionality in natural systems
+T15	Book_Sci-content 1931 1948	Plenty of details
+T16	AUTHOR 2204 2247	Author provides a lot of excellent examples
+T17	Book_Sci-content 2254 2363	he four key concepts of the universality and feasibility of computation and its applicability to our thinking
+T18	Book_Sci-content 2369 2411	A fascinating look at split-brain patients
+T19	Book_Sci-content 2643 2664	The issue of identity
+T20	Book_Sci-content 2670 2711	The brain's ability to predict the future
+T21	Book_Sci-content 2713 2764	The author's own predictive track record referenced
+T22	Book_Sci-content 2770 2884	The laws of accelerating returns (LOAR), where it applies and why we should train ourselves to think exponentially
+T23	AUTHOR 2890 2947	The author provides and analyzes objections to his thesis
+T24	Book_readability 3059 3092	Great notes and links beautifully
+T25	Book_Sci-content 3023 3053	The evolution of our knowledge
+T26	Book_readability 3109 3127	The book is uneven
+T27	Book_Sci-content 3316 3401	I feel that the book could have been reformatted into smaller chapters or subchapters
+T28	Book_Sci-content 3403 3465	The book bogs down a little in the middle sections of the book
+T29	Book_Sci-content 3224 3311	Some of it is understandable as it relates to the limitations of what we currently know
+T30	Book_Sci-content 3484 3555	disagree with the notion that evolution always leads to more complexity
+T31	AUTHOR 3611 3676	The author has a tendency to cross-market his products a tad much
+T32	Book_readability 3717 3733	A bit repetitive
+T33	Book_Sci-content 3738 3791	Sometimes leaves you with more questions than answers
+T34	Book_readability 3830 3861	No formal separate bibliography
+T35	Book_worthiness 3876 3903	overall I enjoyed this book
+T36	AUTHOR 3985 4019	no one brings it like Ray Kurzweil
+T37	Author_expertise 4021 4063	His enthusiasm and dedication is admirable
+T38	Book_Sci-content 4069 4199	author provides his basic thesis of how the brain works and a path to achieve true artificial intelligence and all that it implies
+T39	BOOK 4201 4276	Fascinating in parts, bogs down in other sections but ultimately satisfying
+T40	Book_worthiness 4278 4299	I highly recommend it

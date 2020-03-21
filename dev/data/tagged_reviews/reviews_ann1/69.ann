@@ -1,0 +1,8 @@
+T1	BOOK 20 88	book that attempts to convey the essence of physics to common people
+T2	AUTHOR 90 214	After explaining exactly why it can't be done, arguing that you'll never get it, Feynman goes right ahead and does it anyway
+T3	Book_Sci-content 284 438	explains gravity, yes, to explain gravity, but also because by explaining it he can also convey what essential properties gravity has that other laws have
+T4	Book_Sci-content 448 531	explains the difference between fundamental laws and the consequences of those laws
+T5	Book_Sci-content 636 771	spends a lot of time showing the difficult relationship between the basic laws (which are reversible) and the irreversibility of events
+T6	Book_Sci-content 941 1310	fundamental laws like gravity at the ground level, consequences of them like irreversibility and surface tension at one level up, organic chemistry further up, then eventually concepts like tree, frog, man, pain, beauty, good and evil - each at a higher level, but based upon the levels below them, and difficult to fully predict using only the laws of the lower levels
+T7	Book_Sci-content 1477 1581	extremes on this hierarchy, the fundamental laws and the most abstract concepts, which is closest to God
+T8	BOOK 2185 2230	book did more on this topic, with fewer pages

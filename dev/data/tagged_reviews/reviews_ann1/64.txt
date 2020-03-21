@@ -1,0 +1,17 @@
+This review is written from the perspective of a programmer who has sometimes had the chance to choose, hire, and work with algorithms and the mathematician/statisticians that love them in order to get things done for startup companies. I don't know if this review will be as helpful to professional mathematicians, statisticians, or computer scientists.
+
+The good news is, this is pretty much the most important book you are going to read in the space. It will tie everything together for you in a way that I haven't seen any other book attempt. The bad news is you're going to have to work for it. If you just need to use a tool for a single task this book won't be worth it; think of it as a way to train yourself in the fundamentals of the space, but don't expect a recipe book. Get something in the "using R" series for that.
+
+When it came out in 2001 my sense of machine learning was of a jumbled set of recipes that tended to work in some cases. This book showed me how the statistical concepts of bias, variance, smoothing and complexity cut across both fields of traditional statistics and inference and the machine learning algorithms made possible by cheaper cpus. Chapters 2-5 are worth the price of the book by themselves for their overview of learning, linear methods, and how those methods can be adopted for non-linear basis functions.
+
+The hard parts:
+
+First, don't bother reading this book if you aren't willing to learn at least the basics of linear algebra first. Skim the second and third chapters to get a sense for how rusty
+your linear algebra is and then come back when you're ready.
+
+Second, you really really want to use the SQRRR technique with this book. Having that glimpse of where you are going really helps guide you're understanding when you dig in for real.
+
+Third, I wish I had known of R when I first read this; I recommend using it along with some sample data sets to follow along with the text so the concepts become skills not just
+abstract relationships to forget. It would probably be worth the extra time, and I wish I had known to do that then.
+
+Fourth, if you are reading this on your own time while making a living, don't expect to finish the book in a month or two.

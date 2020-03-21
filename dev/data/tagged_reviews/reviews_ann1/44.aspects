@@ -1,0 +1,7 @@
+T1	Book_worthiness 2149 2189	:: book:ENTITY, more difficult:im
+T2	Book_Sci-content 2327 2361	:: chock full of guideline principles:ex
+T3	Book_Sci-content 2373 2481	:: plenty of principles:im, book:ENTITY, CONCENTRATION of principles:im
+T4	Book_Sci-content 2523 2585	:: sweat consuming:im, little detail:im
+T5	Book_Sci-content 2587 2621	:: formalisms:ex
+T6	Book_Sci-content 2699 2755	:: book:ENTITY,  apply:im, highlighter:ex
+T7	Book_Sci-content 3218 3271	:: principles:ex, perspectives:ex, formalisms:ex

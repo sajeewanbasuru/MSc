@@ -1,0 +1,14 @@
+T1	Book_Sci-content 0 33	 :: book:ENTITY, introduces:im,  concepts:ex
+T2	Book_readability 117 135 ::	read:im
+T3	Book_Sci-content 140 189 ::	good background:im, mathematic:ex
+T4	Book_Sci-content 195 221 ::	book:ENTITY, strong emphasis:im
+T5	Book_Sci-content 272 299 ::	Concepts:ex, well explained:im
+T6	Book_readability 310 333 ::	equations:ex, clear:im
+T7	Book_readability 339 385 ::	notation:ex, reading:im
+T8	Book_Sci-content 391 436 ::	book:ENTITY, covers:im 
+T9	Book_Sci-content 442 472 ::	well described:im
+T10	Book_Sci-content 480 504 ::	easy to understand:im, ideas:ex
+T11	Book_Sci-content 567 613 ::	small chapter:ex, SVM applications:ex
+T12	Book_Sci-content 614 670 ::	contains:im,  typical SVM applications:ex
+T13	Book_worthiness 1142 1187 :: book:ENTITY, definitely written:im, mathematicians:ex
+T14	Book_worthiness 706 723	   :: book:ENTITY, good:im

@@ -1,0 +1,11 @@
+T1	Book_worthiness 25 60	:: best book:im
+T2	Book_worthiness 76 143	:: book:ENTITY, looking:im
+T3	Book_worthiness 145 220	:: book:ENTITY,  understand:im
+T4	Book_worthiness 402 460	:: much better job:im
+T5	Author_expertise 1763 1797 ::	hit:im, exactly:im
+T6	Book_Sci-content 1798 1829	:: Enough detail:ex, satisfy:im
+T7	Book_Sci-content 1839 1922	:: detail:ex, quickly built:im, higher levels of explanation:ex
+T8	Book_Sci-content 1924 1990	:: satisfying:im, big picture:ex
+T9	Book_Sci-content 2031 2053	:: book:ENTITY,  long enough:im
+T10	Book_Sci-content 2256 2297	:: chapters:ex
+T11	Book_Sci-content 2659 2686	:: show:im

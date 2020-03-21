@@ -1,0 +1,81 @@
+Like a news commentator explaining a bad day on Wall Street,
+the cortex has an explanation for everything -
+it generates our subjective universe. To paraphrase George Box,
+all our brain's models of the world are wrong,
+but some are useful, generative, and simple (but not too simple).
+
+In How to Create a Mind acclaimed inventor Ray Kurzweil
+puts forth a model of how the brain works:
+the pattern recognition theory of mind (PRTM).
+The brain successively interiorizes the world as a set of patterns.
+
+Kurzweil's framework uses hierarchical hidden Markov models (HHMMs)
+as its main stock in trade. HHMMs add to the PRTM model the notion
+that those patterns are arranged into a hierarchy of nodes,
+where each node is an ordered sequence of probabilistically matched lower nodes.
+
+So, the key question for me is this: are HHMMs
+really the key to understanding and building a mind?
+
+Ray has been on this track since the sixties,
+when he and I were classmates at MIT. In a spectacular
+career spanning decades, Ray invented systems for OmniPage OCR,
+text to speech (famously for Stevie Wonder), and
+automated speech recognition as in Dragon Naturally Speaking.
+Nuance bought Ray's precursor company.
+
+All automatic speech recognition nowadays is done using HHMMs,
+and the results are astounding. For example, see Microsoft Research
+Chief Rick Rashid's YouTube "Speech Recognition Breakthrough."
+A computer transcription of Rick's talk appears in
+real time and is quite accurate.
+
+The amazing success of HHMMs in handling speech and language is
+a story that needs to be understood by AI aficionados, and
+Kurzweil presents this topic in a beautifully comprehensible exposition.
+
+Kurzweil elaborates a story here that 1) the cortex is
+the key to thought; 2) it is hierarchically organized into
+300 million pattern recognizers; 3) each pattern recognizer
+consists of a 100 neurons in a vertical minicolumn, and
+4) those pattern recognizers communicate with one another
+via a Manhattan-like grid (similar to an FPGA) -
+end of story for the neocortex.
+
+This is a story similar to the one told by entrepreneur Jeff Hawkins in
+On Intelligence, and one that Hawkins, his former associate Dileep George
+(now at Vicarious), and Kurzweil himself are trying to capitalize on
+in cortex-engineering startups. I eagerly follow their results.
+
+So, HHMMs work well and are a required part of a computational
+neuroscience curriculum, but ARE THEY THE MASTER KEY that will unlock
+the doors not only to a full understanding of the mind
+but also to a future of superintelligent AIs? How to Create a Mind
+is a good story but IS IT FICTION or nonfiction?
+
+While HHMMs are required reading for automatic speech recognition,
+they DO NOT DO all the brain's heavy-lifting. Rather, the brain employs
+MANY mechanisms (which robots that aspire to humanity
+may need to incorporate or emulate.)
+
+Five stars for HHMM exposition. Subtract one star for giving short shrift
+to the following pivotal neuroscience principles: 1) attentional mechanisms,
+2) brain-wide dynamical networks, 3) gamma oscillations and inhibitory networks
+and also 5) the role of insula and brain stem in emotion, 6) reward based learning
+including the essential role of basal ganglia and midbrain,
+and 7) hippocampus and memory.
+
+Despite its corticocentric focus, Kurzweil's impressive engineering
+successes make this an important story; furthermore, it is engagingly told.
+I cover neuroscience and AI at bobblum.com . Below are two recent 'DO NOT MISS'
+FIVE STAR stories.)
+
+Addendum: 30 Nov 2012 - Today's issue of SCIENCE (and Ray K's newsletter)
+features a story about a new 2.5M spiking neuron model (SPAUN) that
+performs 8 tasks and outputs to a physically modeled arm.
+See the videos at NENGO > Videos > Collection of Spaun.
+That is the state of the art!
+
+Addendum: Jan 2013: Want to know where the brain stores meaning? (YOU DO!)
+See Alex Huth's 5 min YouTube from Jack Gallant's lab. Search:
+Alex Huth, gallantlabucb "Perceptual Object and Action Maps in the Human Brain."

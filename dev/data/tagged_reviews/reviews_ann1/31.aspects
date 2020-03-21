@@ -1,0 +1,6 @@
+T1	Book_worthiness 8 30	:: thought provoking book:im
+T2	Book_Sci-content 278 296 ::	climax:im, book:ENTITY
+T3	Book_Sci-content 356 421 ::	most important ideas:ex, algorithms:ex, applications:ex
+T4	Book_readability 635 717	:: few simple sentences:ex
+T5	Book_Sci-content 1005 1064 ::	convinced:im, arguments:ex
+T6	Author_expertise 860 882 ::	author:ENTITY, biased:im

@@ -1,0 +1,4 @@
+T1	Book_worthiness 0 91 :: book:ENTITY, ability to make better decisions:im, whopping:im
+T2	Book_worthiness 751 807	:: book:ENTITY, wrong one:im
+T3	BOOK 346 366	:: buy:im, book:ENTITY
+T4	Book_worthiness 493 524	:: book:ENTITY, definitely for you:im

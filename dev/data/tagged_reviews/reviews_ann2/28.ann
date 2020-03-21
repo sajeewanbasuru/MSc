@@ -1,0 +1,11 @@
+T1	Book_worthiness 13 68	probably best for those of you who have read the theory
+T2	Book_worthiness 78 138	not quite sure how to turn that theory into something useful
+T3	Book_Sci-content 426 554	author describes how the most popular of all neural networks, backpropagation, can be used to map a set of search terms to a URL
+T4	AUTHOR 756 856	he instead mentions what it does, and goes on to present python code that implements the stated goal
+T5	Book_readability 859 894	The upside of the approach is clear
+T6	Book_Sci-content 1062 1175	His example of adaptively training a backprop net using only a subset of the nodes in the network was interesting
+T7	Book_worthiness 1312 1420	don't take this book as being the "end all, be all" for understanding neural networks and their applications
+T8	Book_worthiness 1645 1797	this book is a great introduction to what is available for those new to machine learning, and shows better than any other book how it applies to Web 2.0
+T9	Book_Sci-content 1799 1888	Major strengths of this book are its broad coverage, and the practicality of its contents
+T10	Book_worthiness 1898 2055	great book for those who are struggling with the theory, and/or those who need to see an example of how the theory can be applied in a concise, practical way
+T11	Book_Sci-content 2403 2425	lack of a bibliography

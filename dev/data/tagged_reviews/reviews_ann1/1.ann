@@ -1,0 +1,17 @@
+T2	Book_Sci-content 192 233	this one is by far the worst of the three
+T1	Book_Sci-content 252 339	reads almost as a research monologue, only with less explanation and far less coherence
+T3	Book_Sci-content 349 404	little/no attempt to demystify concepts to the newcomer
+T4	Book_Sci-content 414 444	exposition is all over the map
+T5	Book_readability 459 521	isn't a clear, coherent path that the authors set out to go on
+T6	Book_readability 574 620	they tried to squeeze every bit of information
+T7	Book_worthiness 847 927	recommend reading a chapter in Bishop's text and comparing it to similar content
+T8	Book_price-Value 1122 1154	cost 25 dollars through Springer
+T9	Book_Sci-content 1310 1335	quite useful as a summary
+T10	Book_Sci-content 1548 1581	makes for a pretty good reference
+T11	AUTHOR 1611 1638	very well known researchers
+T12	BOOK 1832 1864	naturally will attract some buzz
+T13	Author_expertise 1672 1700	ave written some good papers
+T14	Book_worthiness 1876 1898	very useful to someone
+T15	Book_Sci-content 2018 2046	uses it as a quick reference
+T16	Book_Sci-content 2093 2115	pretty much a disaster
+T17	Book_price-Value 2261 2283	wasting a lot of money

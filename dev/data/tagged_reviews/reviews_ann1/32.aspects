@@ -1,0 +1,6 @@
+T1	Book_worthiness 567 601	 ::   need:im,  book:ENTITY initially
+T2	Book_worthiness 612 655	 ::   definitely helps:im
+T3	Book_Sci-content 698 728 ::   chapters:ex, bit messy:im
+T4	Book_Sci-content 738 807 ::   introduce:im,  themes :ex 
+T5	Book_worthiness 809 862	 ::   Beginners:ex, sorting:ex
+T6	Book_worthiness 942 1018 ::   never understand:im, topic without the book:im

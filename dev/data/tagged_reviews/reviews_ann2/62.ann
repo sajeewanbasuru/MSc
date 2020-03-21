@@ -1,0 +1,13 @@
+T1	Book_worthiness 11 69;70 136;137 204;205 233	good book on machine learning for students at the advanced undergraduate or Masters level, or for self study, particularly if some of the background math (eigenvectors, probability theory, etc) is not already second nature
+T2	Book_Sci-content 537 541;542 612;613 686	This book takes exactly that approach, with each topic being presented both mathematically and in Python code using the new Numpy and Scipy libraries
+T3	Book_Sci-content 688 760;761 790	Numpy resembles Matlab and is sufficiently high level that the book code examples read like pseudocode
+T4	Book_readability 1054 1074;1075 1115	many of the examples in this book produce plots is reassuring
+T5	Book_Sci-content 1243 1259;1260 1296	regression trees and ensemble learning from this book
+T6	Book_worthiness 1661 1673;1674 1725	first Bishop book is the only other text suitable for a beginner
+T7	Book_Sci-content 1731 1750;1751 1814	it doesn't have the explanation-by-programming approach and is also now a bit dated
+T8	Book_Sci-content 1926 1976	Friedman et al. is a good collection of algorithms
+T9	BOOK 2029 2052	it is a bit dry however
+T10	Book_worthiness 2054 2125;2126 2163	The new Bishop is probably the deepest and best current text, but it is probably most suited for PhD students
+T11	Book_worthiness 2165 2201;2202 2215	Duda et al would be a good book at a Masters level
+T12	Book_Sci-content 2223 2272	its coverage of modern techniques is more limited
+T13	Book_Sci-content 2459 2516;2517 2526	first Bishop covers the normalized flavor of radial basis functions

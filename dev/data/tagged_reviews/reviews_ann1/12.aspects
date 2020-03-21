@@ -1,0 +1,8 @@
+T1	Book_worthiness 55 73	:: 5 stars:im
+T2	Book_Sci-content 155 203 :: difference between useful insight:im
+T3	Book_readability 208 242 :: mindless spouting:im, sentences:ex
+T4	Book_Sci-content 1184 1214	:: completely useless information:im
+T5	Book_Sci-content 1242 1380	:: real insight:im,  but rather lists every possible possibility direction that could be taken, but then goes nowhere
+T6	Book_worthiness 1660 1689	:: recommend:im
+T7	Book_Sci-content 1706 1754	:: edited down:im, size:ex
+T8	Book_worthiness 1861 1903	:: nearly unbearable waste:im

@@ -1,0 +1,5 @@
+Compared to the slightly overrated Jurafsky and Martin's classic, this book aims less targets but hits them all more precisely, completely and satisfactory for the reader. That is, just to give you an idea on what to expect, instead of attacking 200 problems on 2 pages each, this book attacks only 40 problems on 10 pages each.
+
+So, read the TOC before you buy the book: if you find your topics there, you're done, you are saved, buy it and be happy. In contrast, you can buy Jurafsky's book without caring to read the TOC: your problem is likely to be mentioned there but it's quite unlikely to be detailed enough to satisfy you.
+
+Some introductory chapters take too much space and some advanced topics are missing. But the book is actually named "Foundations of..." so it seems to deliver precisely what it promisses, which is a precious and rare accomplishment by itself. I recommend this book.

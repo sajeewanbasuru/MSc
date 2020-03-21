@@ -1,0 +1,4 @@
+T1	Author_expertise 216 318   ::	author:ENTITY, idea:ex, undeniable conclusion:im
+T2	Author_expertise 551 623   ::	become lost:im, confused:im
+T3	Book_Sci-content 3623 3678   ::	book:ENTITY, very enticing:im, questions:ex
+T4	Book_worthiness 4178 4238   ::	book:ENTITY, stars:ex, excellent:im, fun read:im

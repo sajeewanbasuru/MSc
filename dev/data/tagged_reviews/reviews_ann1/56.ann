@@ -1,0 +1,13 @@
+T1	Book_worthiness 0 53	MacCormick targets this book at intelligent laypeople
+T2	Book_Sci-content 161 326	book's greatest strength is in the examples he structures to illustrate some fairly deep computer concepts using concrete metaphors such as paint mixing and padlocks
+T3	Book_Sci-content 333 613	algorithms he describes include the key insights that have gone into building search engines such as Google and its predecessor Alta Vista, public key cryptography and digital signatures, data compression, error correction, pattern recognition techniques, and relational databases
+T4	Book_Sci-content 876 921	nvolve whole families of different algorithms
+T5	Book_Sci-content 1288 1378	MacCormick does a good job of describing a couple of the tricks that ensure data integrity
+T6	Book_Sci-content 1540 1700	he did not devote enough explanation to the power of joins, selects, and the other operators that enable a programmer to easily assemble data in a useful format
+T7	Book_worthiness 2038 2106	I'd recommend the MacCormick brush up on his HL Mencken or PT Barnum
+T8	Book_Sci-content 2881 3029	uses multiplication to frame out the logic of the concepts of public key cryptography and digital signatures, which are operationally fairly similar
+T9	Book_Sci-content 3034 3137	then switches to exponentiation, which is the method which is really used, because it is not reversible
+T10	Book_Sci-content 4334 4451	his paint mixing metaphor for public-key cryptography provides far and away the clearest explanation I have ever read
+T11	AUTHOR 4538 4612	He has a similarly elegant padlock and key metaphor for digital signatures
+T12	AUTHOR 4750 4821	he sacrifices communicating intuitively the power of very large numbers
+T13	Book_worthiness 5136 5179	valuable book - glad to have it on my shelf

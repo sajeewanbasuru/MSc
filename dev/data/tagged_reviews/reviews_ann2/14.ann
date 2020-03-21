@@ -1,0 +1,10 @@
+T1	AUTHOR 13 41	writes as an authority on AI
+T2	Author_expertise 149 213	knows one or two subfields of AI well and is a talented inventor
+T3	AUTHOR 219 275	his vision of the future of AI simply doesn't hold water
+T4	BOOK 500 529	may find this book impressive
+T5	Book_Sci-content 567 600	mediocre information is contained
+T6	AUTHOR 632 737	don't think Kurzweil knows enough about human learning (a large and complex field) and human intelligence
+T7	AUTHOR 1494 1536	Kurzweil has contributed very little to it
+T8	Book_Sci-content 1543 1601	book does not summarize that literature or move it forward
+T9	BOOK 1605 1662	sincerely doubt it will be remembered five years from now
+T10	AUTHOR 2307 2377	Kurzweil isn't plugged into enough of the right sources of information

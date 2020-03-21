@@ -1,0 +1,21 @@
+T1	Author_expertise 162 269	Mr. Bishop is clearly an expert in Machine Learning, he is also obviously a HUGE fan of Bayesian Statistics
+T2	Book_Sci-content 275 345	title of the book is misleading as it makes no mention of Bayes at all
+T3	Book_readability 455 489	it's just not clear from the title
+T4	Author_expertise 601 702	author clearly has an understanding of the material that seems to undermine his ability to explain it
+T5	Book_Sci-content 711 766	there are mentions of examples there are, in fact, none
+T6	Book_readability 778 820	many graphics and tiny, trivial indicators
+T7	Book_worthiness 828 949	can't help to think that every single one of the concepts in the book would have benefited from even a single application
+T8	Book_worthiness 995 1112	if you are already aware of many of the methods and techniques that this would be an excellent reference or refresher
+T9	Book_readability 1220 1273	occasionally uses symbols that are flat-out confusing
+T12	Book_Sci-content 1441 1488	He even references articles that he has written
+T13	Book_Sci-content 1503 1585	Every chapter seems to be an exercise to see how many equations he can stuff in it
+T14	Book_Sci-content 1587 1619	There are 300 in Chapter 2 alone
+T15	Book_Sci-content 1847 1918	Chapter five on Neural Nets, for example, is abysmally over-complicated
+T16	Book_Sci-content 2058 2132	book mentions that there is a lot of information available on the web site
+T17	Book_Sci-content 2852 2908	it would actually make more sense to call it a Math book
+T18	Book_Sci-content 2910 2945	More specifically a Statistics book
+T19	Book_Sci-content 2957 3051	no methods, no algorithms, no bits of pseudo-code, and (again) no applications are in the text
+T20	Book_Sci-content 3058 3174	examples that actually used hard numbers and/or elements from a real problem and explained would be much appreciated
+T21	BOOK 3403 3452	book feels more like a combination of "I am smart
+T10	Book_worthiness 2524 2554	upcoming book might be amazing
+T11	Book_price-Value 2621 2653	another $50 or so to purchase it

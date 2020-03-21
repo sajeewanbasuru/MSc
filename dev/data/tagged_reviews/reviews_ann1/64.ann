@@ -1,0 +1,11 @@
+T1	Book_worthiness 374 452	this is pretty much the most important book you are going to read in the space
+T2	BOOK 454 545	It will tie everything together for you in a way that I haven't seen any other book attempt
+T3	Book_worthiness 601 676	f you just need to use a tool for a single task this book won't be worth it
+T4	BOOK 693 749	a way to train yourself in the fundamentals of the space
+T5	Book_Sci-content 973 1174	how the statistical concepts of bias, variance, smoothing and complexity cut across both fields of traditional statistics and inference and the machine learning algorithms made possible by cheaper cpus
+T6	Book_Sci-content 1176 1350	Chapters 2-5 are worth the price of the book by themselves for their overview of learning, linear methods, and how those methods can be adopted for non-linear basis functions
+T7	BOOK 1377 1482	don't bother reading this book if you aren't willing to learn at least the basics of linear algebra first
+T8	Book_Sci-content 1484 1547;1548 1607	Skim the second and third chapters to get a sense for how rusty your linear algebra is and then come back when you're ready
+T9	BOOK 1618 1682	you really really want to use the SQRRR technique with this book
+T10	BOOK 1851 1971;1972 2004	recommend using it along with some sample data sets to follow along with the text so the concepts become skills not just abstract relationships to forget
+T11	BOOK 2098 2211	if you are reading this on your own time while making a living, don't expect to finish the book in a month or two

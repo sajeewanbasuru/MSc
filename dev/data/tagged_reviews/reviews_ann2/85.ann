@@ -1,0 +1,13 @@
+T1	Author_expertise 417 493	author of this book is one of the originators of statistical learning theory
+T2	BOOK 511 606	a book that will give the mathematically sophisticated reader a rigorous account of the subject
+T3	Book_Sci-content 842 1131	the book consists of three parts, the first being an overview of the statistical theory of learning, the second giving the details of the now widely used support vector machines, and the last one (the most sophisticated mathematically) giving the statistical foundations of learning theory
+T4	Book_Sci-content 1155 1331	he author wants to put forward a new approach to dependency estimation problems having their origin in learning theory, and being able to deal with the ?curse of dimensionality
+T5	Book_Sci-content 2141 2185	Two approaches to this problem are discussed
+T6	Book_Sci-content 2342 2432	Both of these approaches are modeled in terms of a general model of learning from examples
+T7	Book_Sci-content 2815 2965	Both approaches are studied in the book, with the first one being the easier of the two, while the second involving the solution of ill-posed problems
+T8	Book_Sci-content 2967 3077	The author views the learning process in terms of choosing the right function from a given function collection
+T9	Book_Sci-content 3085 3173	perceptrons and their generalizations, neural networks, are briefly discussed in the boo
+T10	Book_Sci-content 3220 3435	author gives reasons why he does not think neural networks are well-controlled learning machines, such as the existence of local minima, the slow convergence of the gradient method, and the choice of scaling factors
+T11	Book_Sci-content 4125 4258	author shows that optimal hyperplanes, found using various mathematical techniques such as quadratic optimization, do generalize well
+T12	Book_Sci-content 4971 5142	author discusses three examples of support vector machines for pattern recognition: polynomial, radial basis function, and two-layer neural network support vector machines
+T13	Book_Sci-content 5144 5236	An entire chapter is spent on the problem of digit recognition using support vector machines

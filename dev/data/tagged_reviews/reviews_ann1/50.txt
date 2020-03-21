@@ -1,0 +1,33 @@
+Disclaimer: I served as a paid technical editor for Data Smart. I am not affiliated with the publisher, but I did receive a small fee for double-checking the book's mathematical content before it went to press. I also went to elementary school with the author. So as you read the rest of the review, keep in mind that this reviewer's judgment could be clouded by my lifelong allegiance to Lookout Mountain Elementary School, as well as the Scarface-esque pile of one dollar bills currently sitting on my kitchen table.
+
+Anyway, books about "Data" seem to fit into one of the following categories:
+
+* Extremely technical gradate-level mathematics books with lots of Greek letters and summation signs
+
+* Pie-in-the-sky business bestsellers about how "Data" is going to revolutionize the world as we know it. (I call these "Moneyball" books)
+
+* Technical books about the hottest new "Big Data" technology such as R and Hadoop
+
+Data Smart is none of these. Unlike "Moneyball" books, Data Smart contains enough practical information to actually start performing analyses. Unlike most textbooks, it doesn't get bogged down in mathematical notation. And unlike books about R or the distributed data blah-blah du jour, all the examples use good old Microsoft Excel. It's geared toward competent analysts who are comfortable with Excel and aren't afraid of thinking about problems in a mathematical way. It's goal isn't to "revolutionize" your business with million-dollar software, but rather to make incremental improvements to processes with accessible analytic techniques.
+
+I don't work at a big company, so I can't attest to the number of dollars your company will save by applying the book's methods. But I can attest that the author makes difficult mathematical concepts accessible with his quirky sense of humor and gift for metaphor. For example, I previously had not been exposed to the nitty-gritty of clustering techniques. After a couple of hours with the clustering chapters, which include illuminating diagrams and spreadsheet formulas, I felt like I had a good handle on the concepts, and would feel comfortable implementing the ideas in Excel -- or any other language, for that matter.
+
+What I like most about the book is that it doesn't try to wave a magic data wand to cure all of your company's ills. Instead it focuses on a few areas where data and analytic techniques can deliver a concrete benefit, and gives you just enough to get started. In particular:
+
+* Optimization techniques (Ch. 4) can systematically reduce the cost of manufacturing inputs
+
+* Clustering techniques (Ch. 2 and 5) can deliver insights into customer behavior
+
+* Predictive techniques (Ch. 3, 6, and 7) can increase margins with better predictions of uncertain outcomes
+
+* Forecasting techniques (Ch. 8) can reduce waste with better demand planning
+
+It may take some creativity to figure out how to apply the methods to your own business processes, but all of the techniques are "tried and true" in the sense of being widely deployed at large companies with big analytics budgets and teams of Ph.D.'s on staff. This book's contribution is to make these techniques available to anyone with a little background in applied mathematics and a copy of Excel. For that reason, despite the absence of glitter and/or Jack Welch on the book's cover, I think Data Smart is an important business book.
+
+I had a few criticisms of the book as I was reading drafts, but almost all of them were addressed before the final revision. For the sake of completeness, I'll tell you what they were. Some of the chapters ran on a bit long, but these have been split up into manageable pieces. The Optimization chapter is a bit of a doozie, and used to be at the very beginning, but the reader can now "warm up" with some easier chapters on clustering and simple Bayesian techniques. The Regression chapter originally didn't discuss Receiver Operating Characteristic curves, which are important for evaluating predictive models visually, but now ROC curves are abundant.
+
+Only one real criticism from me remains: I would have liked to see more on quantile regression, which is only mentioned in passing. It's a great technique for dealing with outlier-heavy data. The book by Koenker has good but highly mathematical coverage, and I would have loved to see this subject given the Foreman treatment. But, you can't have everything, and I suppose John needs to leave some material for Data Smart 2: The Spreadsheet of Doom.
+
+In sum, Data Smart is a well-written and engaging guide to getting new insights from data using familiar tools. The techniques aren't really cutting-edge -- in fact, most have been around for decades -- but to my knowledge this is the first time they've been presented in a way that Excel-slinging business analysts can apply the methods without needing her own team of operations researchers and data scientists. If you're not sure whether the book's sophistication is on par with your own skills, you can download a complete sample chapter (as well as example spreadsheets) from the author's website.
+
+One last thing: unlike many books with a technical bent, the prose is engaging and extremely clear. I think this can be traced to John's childhood. When John misbehaved, his father (who is a professor of English) would punish John by forcing him to read a novel by Charles Dickens. Minor infractions resulted in A Christmas Carol being meted out, and when he was really bad he had to read Great Expectations. This is a true story which you should ask John about if you see him at a book-signing event.

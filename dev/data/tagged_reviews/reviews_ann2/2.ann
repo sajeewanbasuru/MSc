@@ -1,0 +1,6 @@
+T1	Book_worthiness 84 105	this book was awesome
+T2	Book_readability 130 188	it is clear, concise and has a nice follow-along structure
+T3	Book_Sci-content 199 221	it has become outdated
+T4	Book_readability 232 273	riddled with either old syntax and errors
+T5	Book_Sci-content 374 450	some of the examples are hosted on the authors blog and have been taken down
+T6	Book_worthiness 577 611	we shouldn't be bothered to buy it

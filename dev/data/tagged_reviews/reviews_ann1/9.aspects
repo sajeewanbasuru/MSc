@@ -1,0 +1,5 @@
+T1	Book_Sci-content 196 274	:: book:ENTITY, close minded:im,  overall worst treatment:im, subject:ex
+T2	Author_expertise 291 359	:: computer or AI expert:ex, rather a filmmaker:im
+T3	AUTHOR 920 990	:: hesitation:im, putting down the views:im, major voice in field:im
+T4	Book_Sci-content 1467 1606	:: same ideas:ex, over and over again:im, several times on a single page:im
+T5	Book_worthiness 1637 1704	:: skip:im, junky:im, shock:im, titillate:im

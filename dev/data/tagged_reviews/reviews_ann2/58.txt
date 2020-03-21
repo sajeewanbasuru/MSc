@@ -1,0 +1,11 @@
+In "How To Create a Mind," Ray Kurzweil offers a fascinating and readable overview of his theory of how the human brain works, as well as a road map for the future of artificial intelligence.
+
+Kurzweil makes a compelling argument that choosing the proper scale is critical when approaching the problem of how the brain works. Many skeptics believe that we are no where near understanding or simulating the human brain because of its overwhelming complexity. However, Kurzweil suggests that a complete understanding of the micro-level details (such as individual neurons or even biochemistry) is really not necessary. Instead, the brain can be understood and simulated at a higher level. The book gives many examples in other fields of science and engineering where such a high level approach has produced tremendous progress.
+
+The core of Kurzweil's theory is that the brain is made up of pattern processing units comprised of around 100 neurons, and he suggests that the brain can be understood and simulated primarily by looking at how these lego-like building blocks are interconnected.
+
+The book includes accounts of some of the most important research current research in both brain science and AI, especially the "Blue Brain Project" (that is working on a whole brain simulation), and also the work on IBM's Watson (Jeopardy! champion) computer.
+
+Kurzweil continues to assert that we will have human-level AI by around 2029. A typical human brain contains about 300 million pattern processing units, but Kurzeil thinks that AIs of the future might have billions, meaning that machine intelligence would far exceed the capabilities of the human mind.
+
+Ray Kurzweil is clearly an optimist both in terms of the progress he foresees and its potential impact on humanity. If he is even partly right in his predictions then the implications could be staggering. Machines that are as smart, or even smarter, than people could completely transform society, the economy and the job market.

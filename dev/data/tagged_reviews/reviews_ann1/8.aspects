@@ -1,0 +1,6 @@
+T1	Author_expertise 312 344	:: author:ENTITY, seems to know:im,  his subject:ex
+T2	Book_Sci-content 587 601 :: poorly written:im
+T3	Book_readability 606 629	:: poorly edited:im
+T4	Book_Sci-content 730 833	:: repetitive:im, confused:im, match:im, code:ex, data sets:ex
+T5	AUTHOR 916 965	:: hesitate:im,  author:ex, publisher:ex
+T6	Book_readability 835 910	:: Color coded figures:ex

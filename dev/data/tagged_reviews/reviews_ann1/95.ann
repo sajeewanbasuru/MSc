@@ -1,0 +1,9 @@
+T1	Book_worthiness 0 133	I'm going to rate this book five stars, because at nearly 500 pages packed with important ideas (plus another hundred pages of notes)
+T2	Book_price-Value 160 199	this weighty book was well worth my $20
+T3	Author_expertise 223 294	Ray is at the top of his game when examining trends in computer science
+T4	Author_expertise 296 342	He has many examples of "narrow" A.I. to share
+T5	AUTHOR 362 517	he believes that computer modeling of brain functioning will yield the algorithms we need in order to eventually achieve an artificial general intelligence
+T6	AUTHOR 683 735	I find his predictions in this area quite believable
+T7	AUTHOR 746 814	some of his arguments regarding nanotechnology to be less convincing
+T8	AUTHOR 831 950	his predictions for nanorobotics seem optimistic beyond all reason given the currently nascent state of this technology
+T9	Book_worthiness 1505 1597	"The Singularity is Near" will give you far more than your money's worth in food for thought

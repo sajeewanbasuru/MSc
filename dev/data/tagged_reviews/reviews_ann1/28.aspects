@@ -1,0 +1,13 @@
+T1	Book_worthiness 5 68	    :: book:ENTITY, probably best:im
+T2	Book_Sci-content 78 138	    :: theory:ex
+T3	Book_worthiness 1033 1060	:: book:ENTITY,  great:im
+T4	Book_worthiness 1181 1198	:: learned:im
+T5	Book_Sci-content 1312 1363	:: book:ENTITY, end all:im, be all:im
+T6	Book_worthiness 1739 1771	:: better than any other book:im
+T7	Book_Sci-content 1799 1888	:: book:ENTITY, broad coverage:im, practicality:im,  contents:ex
+T8	Book_Sci-content 1898 1954	:: great book:im,  theory:ex
+T9	Book_worthiness 2075 2168	:: book:ENTITY,  second edition:im, premise behind the book:ex 
+T10	Book_readability 2187 2358	:: equations:ex, appendix:ex, references:ex, bibliography:ex
+T11	Book_worthiness 2481 2576	:: benefit greatly:im
+T12	Book_readability 2404 2425	:: bibliography:ex
+T13	Book_worthiness 2435 2459	:: stars:ex

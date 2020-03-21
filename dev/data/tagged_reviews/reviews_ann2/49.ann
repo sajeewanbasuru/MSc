@@ -1,0 +1,12 @@
+T1	Book_worthiness 13 60	this is the best book that I have read all year
+T2	Book_Sci-content 146 220	he book that will enable me to understand how a computer does what it does
+T3	Book_worthiness 318 484	Charles Petzold (1999), Code: The Hidden Language of Computer Hardware and Software does a much better job than anything else I have ever seen in explaining computers
+T4	AUTHOR 1733 1761	Charles Petzold is different
+T5	BOOK 1798 1829	Enough detail to satisfy anyone
+T6	Book_Sci-content 1835 1922	the detail is quickly built up as he ascends to higher and higher levels of explanation
+T7	Book_readability 2027 2053	the book isn't long enough
+T8	Book_Sci-content 2055 2083	It is mostly a hardware book
+T9	Book_Sci-content 2195 2254	there are twenty chapters on hardware, and five on software
+T10	Book_Sci-content 2256 2439	In my view only five chapters on software--one on ASCII, one on operating systems, one on floating-point arithmetic, one on high-level languages, and one on GUIs--is about ten too few
+T11	Book_worthiness 4225 4258	I recommend this book to everyone
+T12	Book_worthiness 4260 4284	It is a true joy to read

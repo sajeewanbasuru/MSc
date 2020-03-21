@@ -1,0 +1,4 @@
+T1	Book_readability 181 234	The language does not parse; the grammar is ambiguous
+T2	Book_readability 236 316	Missing subjects and lack of basic subject-verb agreement are just the beginning
+T3	Book_worthiness 600 639	How are people giving this five starts?
+T4	Book_worthiness 318 453	As a beginning student, it is not worth it to try to slog through a text where even basic meaning and the author's points are not clear

@@ -1,0 +1,17 @@
+This book introduces the concepts of kernel-based methods and focuses specifically on Support Vector Machines (SVM). It is hard to read and a good background in mathematic is clearly needed. The book has a strong emphasis on SVM starting from the very first line of text. Concepts are well explained, although equations are not clear. The notation doesn't facilitate the reading at all. The book covers linear as well as kernel learning. The kernel trick is well described. It is easy to understand ideas behind SVM while reading the corresponding chapter. Finally a small chapter on SVM applications is proposed. Unfortunately, it only contains typical SVM applications (i.e. standard problems).
+
+I think this book is good if you:
+
+* Have a strong mathematical background
+
+* Work in the specific domain of SVM (or kernel-based methods in general)
+
+* Want to write a research paper about SVM and need the correct notations
+
+However, this book is NOT intended for people who:
+
+* Don't like to read theorems, corollaries and remarks
+
+* Are not interested in reading hundreds of proofs
+
+This is my personal opinion as a computer scientist: this book is definitely written for mathematicians.

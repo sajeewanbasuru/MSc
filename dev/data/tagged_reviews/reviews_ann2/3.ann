@@ -1,0 +1,15 @@
+T1	Book_worthiness 102 122	this book is amazing
+T2	Book_worthiness 124 167	For everyone else, I would not recommend it
+T3	Book_worthiness 228 239	I regret it
+T4	Book_readability 294 326	Take a look at the online Errata
+T5	Book_readability 404 473	corrections for this (the 3rd edition) is already mind-numbingly long
+T6	Book_readability 514 570	will surely fix some errors, but there are just too many
+T7	Book_readability 972 1019	have already given up on submitting corrections
+T8	Book_worthiness 1039 1062	regrets using this book
+T9	Book_readability 1067 1122	modifies the examples before giving them to us in class
+T10	Book_Sci-content 1202 1236	hardly any worked-through examples
+T11	Book_readability 1242 1291	many of those that are worked through have errors
+T12	Book_Sci-content 1301 1352	important concepts are skimmed over way too quickly
+T13	Book_Sci-content 1569 1641	graphs that look absolutely amazing, but which convey little information
+T14	Book_worthiness 1764 1803	which I'm sure are useful in some sense
+T15	Book_price-Value 1974 2048	I would highly suggest doing something other than paying $55 for this book

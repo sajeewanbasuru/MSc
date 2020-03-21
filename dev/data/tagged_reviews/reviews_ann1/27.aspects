@@ -1,0 +1,22 @@
+T1	Book_worthiness 1163 1200	:: Well researched:im, well-written book:im
+T2	Author_expertise 1206 1287	:: author:ENTITY,  uncanny ability:ex
+T3	Book_worthiness 1294 1338	:: great topic:im, great thinker:im
+T4	Book_readability 1343 1376	:: charts:ex, diagrams:ex
+T5	Book_Sci-content 1433 1472	:: Thought-provoking questions:ex, answers:ex
+T6	Book_Sci-content 1382 1428	:: describing:im
+T7	Book_Sci-content 1685 1729	:: Great information:im
+T8	Book_Sci-content 2204 2247	:: provides:im, excellent examples:ex
+T9	Book_readability 3059 3092	:: Great notes:im, links:im 
+T10	Book_Sci-content 3138 3222	:: cover:im,  certain topics with depth:im, lack of depth:im
+T11	Book_readability 3332 3401	:: book:ENTITY, reformatted:im, smaller chapters:ex, subchapters:ex
+T12	Book_Sci-content 3407 3465	:: book:ENTITY,  bogs down:im
+T13	Book_Sci-content 3471 3508	:: notion:im
+T14	AUTHOR 3615 3676	        :: author:ENTITY,  cross-market:im
+T15	Book_Sci-content 3717 3733	:: bit repetitive:im
+T16	Book_Sci-content 3738 3823	:: more questions than answers:im
+T17	Book_readability 3830 3861	:: No formal separate bibliography
+T18	Book_worthiness 3876 3903	:: overall:im, enjoyed:im, book:ENTITY
+T19	Author_expertise 4021 4063	:: enthusiasm:im, dedication:im
+T20	Book_Sci-content 4201 4276	:: Fascinating in parts:im, bogs down:im
+T21	AUTHOR 4067 4101	        :: author:ex
+T22	Book_worthiness 4280 4300	:: recommend:im

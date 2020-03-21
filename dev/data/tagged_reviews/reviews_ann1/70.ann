@@ -1,0 +1,10 @@
+T1	Book_readability 197 241	approaches the clarity and comprehensiveness
+T2	AUTHOR 466 530	Grune and Jacobs explain every one of these distinctions lucidly
+T3	Book_Sci-content 536 616	put all known algorithms in context of how they compare to the rest of the field
+T4	Book_Sci-content 757 838	book addresses all of these trade-offs, but doesn't stop at asymptotic complexity
+T5	BOOK 1009 1051	high-level overview and comparative survey
+T6	Book_Sci-content 1162 1244	lot of important background information that other authors tend to assume you know
+T7	BOOK 1570 1621	strikes a perfect balance between breadth and depth
+T8	Book_Sci-content 1623 1725	All significant algorithms are covered, most with enough detail to fully understand and implement them
+T9	Book_Sci-content 1825 1883	That information is never more than a citation away though
+T10	Book_worthiness 2178 2275	I thank Grune and Jacobs for this superb guide to this vast and diverse field of computer science

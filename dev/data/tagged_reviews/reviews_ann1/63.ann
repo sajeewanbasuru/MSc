@@ -1,0 +1,7 @@
+T1	Book_worthiness 84 124	I have found this book to be very useful
+T2	Book_Sci-content 136 177	provides two crucial types of information
+T3	Book_Sci-content 189 380	provides enough theory to allow a potential user to understand the essential insights that motivate specific techniques and to evaluate the situations in which those technique are appropriate
+T4	Book_Sci-content 399 461	gives the exact algorithms to implement the various techniques
+T5	Book_Sci-content 537 675	this one has the strongest coverage I have seen in additive models, non-linear regression, and CART/MART (regression/classification trees)
+T6	Book_Sci-content 689 729	very strong coverage in many other areas
+T7	Book_worthiness 731 752	I highly recommend it

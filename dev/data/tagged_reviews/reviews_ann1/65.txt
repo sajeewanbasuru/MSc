@@ -1,0 +1,7 @@
+Some books entertain, some inform; some confirm what you already knew, some make you change your mind about something. But then there are some books that just make you think "wow! I wish I'd written that".
+
+For me, Charles Petzold's The Annotated Turing falls into that last category (as well, of course, as the informational category). It's a book worth reading not only for the topic itself but the way it's presented.
+
+Petzold provides the necessary background before working through Turing's famous 1936 paper "On computable numbers, with an application to the Entscheidungsproblem" with rich annotations at every stage, including biographical details.
+
+If you are interested in the foundation of mathematics, computability, Turing's work, or even just ways of explaining mathematics in a historical context, I highly recommend this book.

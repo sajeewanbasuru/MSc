@@ -1,0 +1,5 @@
+T1	BOOK 169 212 ::	title:ex, book:ENTITY
+T2	Book_worthiness 216 260	:: insights:ex,  very helpful:im
+T3	Book_worthiness 271 310	:: very good book:im 
+T4	Book_readability 387 434 ::	book:ENTITY, very well organized:im, clearly written:im
+T5	Book_readability 982 1038 :: organizes:im

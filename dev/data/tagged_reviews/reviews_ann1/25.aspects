@@ -1,0 +1,3 @@
+T1	Book_worthiness 21 111 ::	quite helpful:im, resolved:im
+T2	Book_Sci-content 555 621 ::	code discrepancies:im,  book:ENTITY
+T3	Book_Sci-content 860 927 ::	source:ex, contains:im, requirements:ex, lib:ex

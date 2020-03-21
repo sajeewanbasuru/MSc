@@ -1,0 +1,13 @@
+T1	Book_readability 145 179 :: 	book:ENTITY, quick:im, easy read:im
+T2	Book_Sci-content 185 218	:: aware of the basics:im
+T3	Author_expertise 233 344	:: author:ENTITY, clearly non-technical:im, sensationalist style:im,too much like tabloid writing:im
+T4	BOOK 579 664	:: so many problem areas:im
+T5	BOOK 673 729	:: only matter:im, technical audience:im
+T6	Book_Sci-content 1132 1227	:: largely irrelevant:im, longer chapters in the book:im
+T7	Book_Sci-content 942 991	:: basic problem:ex
+T8	Book_Sci-content 1036 1080	:: primary goal:ex, page-count target:ex
+T9	Book_Sci-content 1429 1526	:: chapter:ex,argument:ex
+T10	Book_Sci-content 1746 1777	:: book:ENTITY,  only scratches:im, surface:ex
+T11	Book_Sci-content 1531 1553	:: tosses around concepts:im
+T12	Book_worthiness 2137 2160	:: three stars:im
+T13	Book_price-Value 2393 2412	:: buy:im

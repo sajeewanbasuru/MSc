@@ -1,0 +1,13 @@
+This is a must-read for any Perl programmer. You are only as good as the teachers you have, and if your teachers use stuff like $|++, you are screwed. In this case, Conway would tell you to Use English;, and then you'd know what a $| is. A sampling of other tips:
+
+Don't modify via $_ (too easy to screw things up)
+Use hashes for arguments if arguments > 3 (trackability)
+Use Croak instead of die (Croak gives more info, better for debugging)
+Use ' ' instead of " " when no interpolation (less ambiguity)
+Don't use unless (complication and confusion).
+use /xms in regexes (for readability, and avoiding mistakes)
+test when closing or opening a file
+
+A few of the reviews here are 1 star. IMO these are people to which "freedom" is more important than "group code maintainability". This should really be the third Perl book for anybody, after Learning Perl and Intermediate Perl.
+
+For those wanting to test their code against this book, there is a Perl Module, Perl::Critic, that does the job.

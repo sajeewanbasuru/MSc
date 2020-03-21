@@ -1,0 +1,10 @@
+If you want to build a comprehensive machine learning library, this would be the first book to purchase. While it does cover all of the basics, it is not watered down by any means. (I had the same fear as BK Reader) I found the following to be especially helpful;
+
+1. Straight talk - These experts come right and say which methods work best under which circumstances. While there are many fancy algorithms covered in the book, they highlight the advantages of the simpler ones.
+2. Emphasis on subjects that are not heavily addressed in most ML books - They thoroughly cover the challenges of high-dimensionality, data cleaning, and standardization. They do not limit their attention to these subjects to one chapter. They bring them up continually throughout the book.
+3. Expertise - Dr. Hastie and Dr. Tibshirani are two of the thought leaders in statistical learning. You can be assured that you are learning from the best.
+4. Many levels of depth - While the book does cover the basics, it is not watered down by any means. (I had the same worry as BK Reader) There is a great deal for any student of statistics; beginner or advanced.
+5. R code - You are given enough code and examples to gain confidence in your ability to independently perform excellent analysis and modeling.
+6. The concepts are just plain exciting! - You will feel an excitement as you discover and re-discover the algorithms they present.
+
+The book is a standard work along with Elements of Statistical Learning and Pattern Recognition and Machine Learning (the Bayesian approach). If you enjoy the book, you may also want to consider Applied Predictive Modeling. It has the same style and approach.

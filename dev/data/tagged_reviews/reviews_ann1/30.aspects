@@ -1,0 +1,11 @@
+T1	Book_worthiness 48 86	:: very good book:im,  explores:im
+T2	Book_Sci-content 109 150 ::	covers:im, techniques in the area:im
+T3	Book_Sci-content 240 270 :: deep in any concept:im
+T4	Book_worthiness 274 340	:: specialized reference:ex
+T5	Book_readability 397 430 ::	list of references:ex
+T6	Book_Sci-content 449 462 ::	new exercises:ex
+T7	Book_readability 546 580 ::	order of some chapters:ex
+T8	Book_Sci-content 470 512 ::	concepts:ex, up-to-date:im
+T9	Book_readability 643 683 ::	well-written:im, understand:im
+T10	Book_worthiness 685 747	:: new in the field:im,  first textbook:im
+T11	Book_worthiness 600 635	:: very good introductory book:ex

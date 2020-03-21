@@ -1,0 +1,7 @@
+T1	Author_expertise 308 344	The author seems to know his subject
+T2	Book_Sci-content 380 466	deciding to structure the book around the ten most popular machine learning algorithms
+T3	Book_readability 575 629	the book is poorly written and even more poorly edited
+T4	Book_readability 640 724	like a very rough draft that was put once through a spell-checker and then published
+T5	Book_Sci-content 730 833	text is repetitive, confused, and often doesn't match up with the code and data sets to which it refers
+T6	Book_readability 835 910	Color-coded figures are published (in the print edition) in black and white
+T7	AUTHOR 912 965	I'd hesitate to trust this author and publisher again

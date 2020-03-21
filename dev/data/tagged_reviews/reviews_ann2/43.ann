@@ -1,0 +1,11 @@
+T1	BOOK 63 75	well written
+T2	Book_readability 84 151	figures are really pretty because they are in color and informative
+T3	Book_worthiness 153 210	Overall the book looks very nice and it is fun to read in
+T4	Book_worthiness 324 424	book is a textbook rather than a monograph and, hence, intended for students rather than researchers
+T5	Book_Sci-content 433 530	coverage of machine learning topics is thorough without being able to cover every topic in deepth
+T6	Book_readability 610 758	presentation of the methods is informative and, depending on the background of the reader, clear enough to figure out how it works to use the method
+T7	Book_Sci-content 784 859	do not like that the methods are introduced not rigourously but by examples
+T8	AUTHOR 871 949	Bishop does not have the definiton, theorem, proof style but is more heuristic
+T9	Book_worthiness 951 1021	This may sound very helpful for the reader not familiar with the topic
+T10	Book_worthiness 1475 1508	I give only 4 instead of 5 points
+T11	Book_worthiness 1597 1698	Overall, the book is well done and certainly a good source of information for students and researches

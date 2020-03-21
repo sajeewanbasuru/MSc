@@ -1,0 +1,9 @@
+Artificial Intelligence: A Modern approach is a very good book which explores concepts in the area of AI. It covers most of the techniques in the area (there are some important AI techniques missing such as KDD and Data Mining), however it doesn't go deep in any concept so if you're looking for a specialized reference this is not the one.
+
+The third edition of this book offers a few changes:
+- a very updated list of references
+- some (not many) new exercises
+- they rewrote concepts in order to be up-to-date with the state of the art
+- they changed the order of some chapters
+
+All in all, it is still a very good introductory book, it is well-written and very easy to understand. If you are new in the field this is the first textbook to read.

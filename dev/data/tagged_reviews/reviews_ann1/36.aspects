@@ -1,0 +1,4 @@
+T1	Book_readability 13 72	 :: language:ex, little stilted:im, read:im
+T2	Book_worthiness 150 289	 :: extremely interesting:im,  look toward the future:im
+T3	Author_expertise 309 379 ::	working:im, researching:im
+T4	Book_Sci-content 433 469 ::	lot of credence:im, ideas:ex

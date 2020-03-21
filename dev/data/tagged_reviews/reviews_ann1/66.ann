@@ -1,0 +1,11 @@
+T1	Book_Sci-content 37 121	explaining complex algorithms and mathematical concepts with clear examples and code
+T2	Book_readability 135 147	easy to read
+T3	Book_worthiness 152 158	useful
+T4	AUTHOR 0 33	Segaran has done an excellent job
+T5	AUTHOR 160 243	His coding style in Python often reads as clearly as pseudo-code in algorithm books
+T6	Book_Sci-content 249 361	examples give real-world grounding to abstract concepts like collaborative filtering and bayesian classification
+T7	Book_Sci-content 400 509	code (gives it to us!) that goes out into the world, grabs masses of data and does interesting things with it
+T8	Book_price-Value 515 662	use of a hierarchical clustering algorithm to dig into people's intrinsic desires in life as expressed in zebo is worth the price of the book alone
+T9	Book_Sci-content 668 832	graph that shows a strong connection between "wife", "kids", and "home" but a different connection between "husband", "children", and "job" is IMHO just fascinating
+T10	Book_worthiness 835 893	Gems like that make this book worth reading cover to cover
+T11	Book_worthiness 944 1045	as a reference anytime you need to build something to mine user data and extract the wisdom of crowds

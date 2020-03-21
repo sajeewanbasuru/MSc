@@ -1,0 +1,12 @@
+T1	Book_readability 63 75	well written
+T2	Book_readability 84 152	figures are really pretty because they are in color and informative.
+T3	BOOK 153 210	Overall the book looks very nice and it is fun to read in
+T4	BOOK 296 318	looks comparably well.
+T5	Book_worthiness 379 530	intended for students rather than researchers and the coverage of machine learning topics is thorough without being able to cover every topic in deepth
+T6	Book_worthiness 324 366	book is a textbook rather than a monograph
+T7	Book_Sci-content 610 652	presentation of the methods is informative
+T8	Book_Sci-content 784 859	do not like that the methods are introduced not rigourously but by examples
+T9	Book_Sci-content 878 949	does not have the definiton, theorem, proof style but is more heuristic
+T10	Book_Sci-content 966 1108	very helpful for the reader not familiar with the topic to reduce the barrier of understanding by providing examples to visulalize the problem
+T11	Book_worthiness 1597 1699	Overall, the book is well done and certainly a good source of information for students and researches.
+T12	Book_Sci-content 1199 1432	never wrong to provide examples and it is absolutely desirable but after the examples are given and one has an intuitive understanding of the problem one wants to see its formal solution because that's what machine learning is about,

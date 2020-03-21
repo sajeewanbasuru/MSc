@@ -1,0 +1,13 @@
+T1	Book_readability 145 179	this book is a quick and easy read
+T2	Book_Sci-content 185 218	will make you aware of the basics
+T3	Author_expertise 233 344	author is himself clearly non-technical and has a sensationalist style that feels too much like tabloid writing
+T4	BOOK 579 664	so many problem areas that I'd never bother to sit down and address them individually
+T5	BOOK 673 729	these problems would only matter to a technical audience
+T6	Book_Sci-content 1132 1227	largely irrelevant to the real problem, but it felt like one of the longer chapters in the book
+T7	Book_Sci-content 942 991	seems to understand the basic problem well enough
+T8	Book_Sci-content 1036 1080	primary goal was hitting a page-count target
+T9	Book_Sci-content 1429 1526	shoot somebody down in one chapter, then use that same person to support his argument in the next
+T10	Book_Sci-content 1746 1777	book only scratches the surface
+T11	Book_Sci-content 1531 1553	tosses around concepts
+T12	Book_worthiness 2137 2160	giving this three stars
+T13	Book_price-Value 2393 2412	buy it and read it,

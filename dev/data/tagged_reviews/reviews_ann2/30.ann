@@ -1,0 +1,9 @@
+T1	Book_worthiness 46 104	a very good book which explores concepts in the area of AI
+T2	Book_Sci-content 109 270	covers most of the techniques in the area (there are some important AI techniques missing such as KDD and Data Mining), however it doesn't go deep in any concept
+T3	Book_worthiness 274 339	if you're looking for a specialized reference this is not the one
+T4	Book_Sci-content 397 430	a very updated list of references
+T5	Book_Sci-content 433 462	some (not many) new exercises
+T6	Book_Sci-content 470 538	rewrote concepts in order to be up-to-date with the state of the art
+T7	Book_readability 546 580	changed the order of some chapters
+T8	Book_worthiness 606 683	a very good introductory book, it is well-written and very easy to understand
+T9	Book_worthiness 685 747	If you are new in the field this is the first textbook to read

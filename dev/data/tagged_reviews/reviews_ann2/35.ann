@@ -1,0 +1,9 @@
+T1	Book_worthiness 0 10	Great book
+T2	Book_worthiness 12 109	Good for showing young people that computers can do more than just play games and access facebook
+T3	BOOK 112 144	Written on VERY elementary level
+T4	Book_worthiness 153 198	not for professional but for complete amateur
+T5	Book_worthiness 200 251	Good as a basis for popular lectures, on K-12 level
+T6	Book_Sci-content 263 325	selection of "great" algorithms is a bit arbitraty and limited
+T7	Book_Sci-content 327 360	Some GREAT algorithms are missing
+T8	Book_Sci-content 1273 1331	this simple fact is not sufficiently visible from the book
+T9	Book_Sci-content 863 934	these algorithms are a bit more complex than ones described in the book

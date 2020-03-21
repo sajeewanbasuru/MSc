@@ -1,0 +1,11 @@
+T1	Book_Sci-content 351 490	:: book:ENTITY, summarizes:im
+T2	Book_Sci-content 493 524	:: book:ENTITI, monograph:ex
+T3	Book_Sci-content 597 639	:: contains:im
+T4	Book_Sci-content 765 819	:: book:ENTITY,  addressed:im to the general public, that's a problem
+T5	Book_Sci-content 926 1067	:: presents:im,  hypotheses:ex, hand-picked:im,  existing research:im
+T6	Book_Sci-content 1349 1439	:: subject:ex, simplistic treatment:im
+T7	Book_Sci-content 1742 1899	:: evidence:ex, meaningful patterns:ex
+T8	Book_worthiness 1911 1936	:: still recommend:im, book:ENTITY
+T9	Book_readability 1949 1964	:: highly readable:im
+T10	Book_worthiness 1970 1990	:: make:im
+T11	Book_worthiness 2051 2069	:: stars:ex

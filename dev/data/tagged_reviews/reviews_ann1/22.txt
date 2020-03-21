@@ -1,0 +1,12 @@
+This is really two separate books in one. The first is a bit hyperbollic, silly, and scare mongering account of the dangers of high frequency trading. The second book is a fantastic and engaging account of the evolution on the US equity trading marketplace.
+
+Just some examples of #1:
+At one point the author claims that HFT has lead to the lack of liquidity in smaller cap stocks including the slowdown of IPOs.
+He quotes a consultant saying that a financial instituion will loose billions because of a loop in HFT code.
+The reader is repeatedly scared of a looming and undefined "catastrophy" becase of HFT.
+The improvements in spreads and liquidity is relatively ignored. Just go back and look at some old TAQ data to see how bad the markets used to be.
+The author tries to paint a picture of one large order in the marketplace that is getting ripped off by HFT. The reality is much more complex with many orders of all sizes and time frames working throughout the day.
+
+But, despite the silliness above, this is the best account of the evolution of the US market that I have seen. I'm sure many of the people considering buying this book have looked at ITCH and OUCH specs. But in the book I leared that it was all one guy, the original Island developer who developed them. And he named them ITCH and OUCH just to poke fun at NASDAQ's naming conventions.
+
+There are so many more, great, stories that most readers will still enjoy the book. Take the history and the personalities and ignore the analysis.

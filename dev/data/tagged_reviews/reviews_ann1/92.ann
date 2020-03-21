@@ -1,0 +1,21 @@
+T1	Book_Sci-content 0 86	Everything I wished in a book to apply machine learning techniques for trading is here
+T2	BOOK 88 153	I began reading the book in the evening and could not put it down
+T3	Book_Sci-content 296 351	A decent trading system in Python is provided with code
+T4	Book_worthiness 1516 1572	Quantitative Technical Analysis does that extremely well
+T5	Book_Sci-content 1592 1695	this book is a great asset if you use Amibroker and have no intention of using machine learning methods
+T6	Book_Sci-content 1879 1960	The opening chapters discuss the key concepts with respect to key risk in trading
+T7	Book_Sci-content 2109 2202	welcome this summary of the concepts along with more and detailed explanation of the concepts
+T8	Book_Sci-content 2507 2726	It provides the classic (what Dr Bandy call's the indicator based approach) way of developing systems using a platform like Amibroker and in *parallel*, introduces the use of Python as a platform for trading development
+T9	Book_Sci-content 2745 2827	a great way to bridge the concepts of system development using Amibroker to Python
+T10	Book_Sci-content 3181 3246	Next, the use of machine learning to predict prices is introduced
+T11	Book_Sci-content 3311 3419	Dr Bandy takes the classic Iris classification problem to illustrate the various machine learning algorithms
+T12	Book_Sci-content 3478 3523	He then follows up with a real trading system
+T13	Book_Sci-content 3703 3825	If you have prior exposure to machine learning concepts, you should be up and running with a working system in a few hours
+T14	Book_worthiness 3837 3948	If you are new to machine learning, this is the best book I know of that takes the concepts of machine learning
+T15	Book_Sci-content 4117 4195	A Python implementation of the dynamic position sizing technique is introduced
+T16	Book_Sci-content 4342 4387	This book provided a complete working example
+T17	Book_Sci-content 4420 4578	examples here are a lot better than many production systems.It provides a daily management of the position size of the trade based on changing risk conditions
+T18	Book_worthiness 4580 4595	It is brilliant
+T19	AUTHOR 4719 4796	Dr Bandy has set a high bar with his prior books so we've come to expect this
+T20	Book_worthiness 4798 4928	Still, getting all of the Python code to work withing hours of getting the book is an amazing testament to his attention to detail
+T21	Book_worthiness 4930 5033	If you are at all interested in applying machine learning to trading, getting this book is a nobrainer!

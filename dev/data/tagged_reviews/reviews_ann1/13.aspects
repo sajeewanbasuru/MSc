@@ -1,0 +1,7 @@
+T1	Book_worthiness 11 95 ::	excellent book:im, recommend purchasing:im,Kindle version:ENTITY
+T2	BOOK 103 112	:: atrocious:im
+T3	Book_readability 124 333	:: subject headings:ex, many heading stacked:im, useless titles:ex, wrong order:im
+T4	Book_readability 345 360	:: page numbers:ex
+T5	Book_readability 466 492	:: hyphenation errors:ex
+T6	Book_readability 636 705	:: read:im, navigate:im,  horrible Kindle conversion:im
+T7	Book_readability 498 617	:: delineations between figure notes:im, text:ex, almost imperceptible:im, text:ex

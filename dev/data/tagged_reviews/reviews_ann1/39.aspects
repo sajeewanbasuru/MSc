@@ -1,0 +1,5 @@
+T1	Book_Sci-content 232 290	  ::  absence:im,  last two chapters:ex
+T2	Book_Sci-content 710 778	  ::  chapters:ex, core material:im
+T3	Book_readability 883 953	  ::  chapters:ex, unnumbered:im,swapped:im 
+T4	Book_readability 1040 1103	  ::  cross-chapter references:ex
+T5	Book_price-Value 1566 1603	  ::  buy:im, money:ex

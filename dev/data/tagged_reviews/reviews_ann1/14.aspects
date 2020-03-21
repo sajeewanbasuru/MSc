@@ -1,0 +1,10 @@
+T1	AUTHOR_expertise 13 41 :: 	authority on AI:im
+T2	Author_expertise 114 144 ::	impressed:im, expertise:ex
+T3	Author_expertise 149 275 ::	knows:im, subfields of AI:ex, talented inventor:im, vision of the future:ex 
+T4	Book_Sci-content 553 619 ::	great deal of mediocre information:im, contained:im
+T5	Book_worthiness 500 529	:: book:ENTITY, impressive:im
+T6	Author_expertise 632 686 ::	knows enough:im
+T7	Book_Sci-content 1449 1489 ::	established literature on mind design:im
+T8	Book_Sci-content 1548 1601	:: summarize:im, literature:ex
+T9	Book_worthiness 1605 1662	:: sincerely doubt:im, remembered:im
+T10	Book_Sci-content 2316 2378	:: right sources of information:ex

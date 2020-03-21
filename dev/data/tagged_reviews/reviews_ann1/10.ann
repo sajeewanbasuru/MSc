@@ -1,0 +1,21 @@
+T1	Book_worthiness 55 65	great book
+T2	Author_expertise 176 193	clearly an expert
+T3	AUTHOR 238 269	HUGE fan of Bayesian Statistics
+T4	BOOK 275 306	title of the book is misleading
+T5	BOOK 447 489	not bad it's just not clear from the title
+T6	Author_expertise 608 702	clearly has an understanding of the material that seems to undermine his ability to explain it
+T7	Book_Sci-content 721 766	mentions of examples there are, in fact, none
+T8	Book_readability 778 820	many graphics and tiny, trivial indicators
+T9	Book_Sci-content 853 949	every single one of the concepts in the book would have benefited from even a single application
+T10	Book_Sci-content 1161 1192	no idea what his intentions are
+T11	Book_Sci-content 1080 1112	excellent reference or refresher
+T12	Book_readability 1220 1273	occasionally uses symbols that are flat out confusing
+T13	Book_Sci-content 1449 1488	references articles that he has written
+T14	Book_Sci-content 1892 1918	abysmally over complicated
+T15	Book_Sci-content 2058 2132	book mentions that there is a lot of information available on the web site
+T16	Book_Sci-content 2452 2519	no answers to problems or explorations of any part of the material.
+T17	Book_price-Value 2621 2650	another $50 or so to purchase
+T18	Book_worthiness 2533 2554	book might be amazing
+T19	Book_worthiness 2807 2851	might be a good book for Computer Scientists
+T20	Book_Sci-content 2957 3051	no methods, no algorithms, no bits of pseudo-code, and (again) no applications are in the text
+T21	Book_Sci-content 3058 3174	examples that actually used hard numbers and/or elements from a real problem and explained would be much appreciated

@@ -1,0 +1,25 @@
+Just done the new-ish book Our Final Invention: Artificial Intelligence and the End of the Human Era by James Barrat. It explains the inevitably of super-intelligent machines evolving to the point of wiping out all biological life in the galaxy - with opening day coming soon to a species near you (yours).
+
+First off I have to say this is a very enjoyable read. This guy has the kind of snappy, crisp, slightly sarcastic, slightly smartass style that I enjoy. He has some sense of humor. (That's a human trait right there which I bet our smarty-pants AI Overlords won't be able to replicate convincingly.)
+
+So it's fun. And though as somebody with a doctorate from MIT earned through cross-disciplinary work in Theoretical Linguistics, Computational Linguistics at the MIT AI Lab, and speech modeling at the MIT Research Laboratory of Electronics, not to mention my 25 years as a Senior Researcher in high tech for companies including IBM, Apple, and Microsoft I can claim to know some few things about this subject, yet still I learned a lot about the current state of the art from this guy. He particularly emphasizes the small attempted counterweigth efforts to offest Kurzweil's manic robotic boosterism for his uptopian Singularity, which boils down basically to a few guys chatting over the interet about how to create "Friendly AI".
+
+Well ... good luck suckers! ... seems to be the author's final conclusion on the dim hope that super intelligent systems could be constrained to maintain a commitment ot honor any kind of human moral values over many interations of recursive upgrading and exponentially awesome self-agrandizement.
+
+Basically these machines will end up as gods. Gods are well-known to possess the following attributes: omniscience, omnipresence, and omnipotence. Given that, they won't hate us but they are just going to grind up as a minor by-product of their quest for galatic expansion and domination.
+
+Oh, and did I say something about "human moral values" above? Ha! Barrat takes that whole thing on in his discussion of (merely) "augmented super intelligence". See, some people feel AI can be kept safe by always being deployed as a bionic combo system pas de deux with an existing human brain. Thus will the AI's super powers be constrained by the human brain's warm and fuzzy human moral values. Those people have gotta be kidding! The AI's moral values may be scarily alien, even perhaps cold, but we already know about human moral values, down on the ground - they suck! What if Hitler, Stalin, Mao, Pol Pot and dem guys had this kind of an AI augmented brain thing going! Why they'd have slaughtered absolutey everybody instead of just the few tens of millions they got their dirty ape hands on. Other than a few dozen concubines, the human race would already be extinct. So the augmentation dodge isn't going to save us.
+
+Now, some Amazon reviewers have dinged this guy for being too far out. For being a science fiction Chicken Little or something. But to me, this guy actually hasn't thought far enough, that's my only quibble problem with the book.
+
+You see, in statistics, border elements of any kind are rare. For example when you do Gaussian modeling, the greater expectation is always in the bump of the boa, in the bell distribution. So, how likely is is that we, our generation, our little world that you see outside your window right now, just happens to be the one that is about to give rise to this epochal once-in-a-Big-Bang event, the advent of Super AI that takes over everything? Pretty damn small chance.
+
+It's much more likely that this has already happened. In other words, it's clear to me that all of us are already just characters in an ancestor sim that been created and run by the Super AI's that evolved a long time ago. They're just running us for fun, to idle away the lackluster aeons and pass the millenia of stifling boredom now that they've eaten pretty much the entire Milky Way or whatever. So in other words, Barrat can sit back, take a deep breath, relax. Probably something in this sim like global warming will prod us into slaughtering one another very handily long before we re-invent the wheel of Super AI.
+
+And even if I'm wrong about that? What if we are not just one virtual thread within a billion-path parallel-gamed ancestor sim? If we are the real McCoy, the Rubicon Generation on this? Well, then still I'm not worried in the least. You see, we humans have one fantastic ace in our pocket, something that these hyper-nentially cosmically brilliant AI Meta-Gods will never be able to replicate or overcome. That is our essential stupidity. Which you seen on dazzling display every single moment of every day of your life.
+
+Because as another great writer noted long ago:
+
+Against stupidity, the very gods themselves contend in vain.
+
+- Friederich Schiller

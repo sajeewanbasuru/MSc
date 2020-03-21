@@ -1,0 +1,19 @@
+T1	Book_worthiness 414 491	best book available for learning about this fascinating and important subject
+T2	Author_expertise 633 720	authors themselves have been involved heavily in extending the frontiers of the subject
+T3	Book_Sci-content 792 839	The useful exercises at the end of each chapter
+T4	Book_Sci-content 844 897	The discussion of simple reflex and goal-based agents
+T5	Book_Sci-content 902 994	The treatment of constraint satisfaction problems and heuristics for these kinds of problems
+T6	Book_Sci-content 999 1099	The overview of iterative improvement algorithms, particularly the discussion of simulated annealing
+T7	Book_Sci-content 1104 1191	The discussion of propositional logic and its limitations as an effective A.I. paradigm
+T8	Book_Sci-content 1196 1442	The treatment of first-order logic and its use in modeling simple reflex agents, change, and its use in situation calculus. There is a good overview of inference in first-order logic in chapter 9 of the book, including completeness and resolution
+T9	Book_Sci-content 1447 1557	The treatment of logic programming systems; the Prolog language is discussed as a logical programming language
+T10	Book_Sci-content 1628 1739	discuss constraint logic programming (CLP) as an alternative logic programming language that allows constraints
+T11	Book_Sci-content 1744 1802	The discussion of semantic networks and description logics
+T12	Book_Sci-content 1807 1896	The treatment of conditional programming via the conditional partial-order planner (CPOP)
+T13	Book_Sci-content 1902 2511	Representing knowledge in an uncertain domain and the semantics and inference in belief networks. 11. The brief discussions on stochastic simulation methods and fuzzy logic. 12. The discussion on computational learning theory 13. The treatment of neural networks, especially the discussion of multilayer feed-forward networks and the comparison between belief networks and neural networks. 14. The brief discussion on genetic algorithms and evolutionary programming. 15. The discussion on explanation-based learning and the technique of memoization. 16. The (excellent) overview of inductive logic programming
+T14	Book_Sci-content 2643 2709	approach of discovery systems and the Automated Mathematician (AM)
+T15	Book_Sci-content 2745 2829	telepathic communication between robots via the exchange of internal representations
+T16	Book_Sci-content 2839 2952	discussion on a formal grammar for a subset of English and the extensive treatment of natural language processing
+T17	Book_Sci-content 2962 3056	discussion of speech recognition and the use of hidden Markov models and the Viterbi algorithm
+T18	Book_Sci-content 3092 3226	robotics, particularly the treatment of configuration spaces, which brings in some techniques from computational geometry and topology
+T19	Book_Sci-content 3236 3288	discussion on the philosophical ramifications of A.I

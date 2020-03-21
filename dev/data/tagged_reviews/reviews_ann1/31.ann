@@ -1,0 +1,6 @@
+T1	Book_worthiness 8 30	thought provoking book
+T2	Book_Sci-content 278 296	climax of the book
+T3	Book_Sci-content 356 421	talks about the most important ideas, algorithms and applications
+T4	Book_readability 635 717	very good at explaining in a few simple sentences the gist of an advance algorithm
+T5	Book_Sci-content 1005 1064	most unsatisfactory in book, not convinced by the arguments
+T6	Author_expertise 860 882	author is a bit biased

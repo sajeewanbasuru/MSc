@@ -1,0 +1,12 @@
+T1	Book_readability 63 75	:: well written:im
+T2	Book_readability 84 152	:: figures:ex, color:ex, informative:im
+T3	BOOK 153 210 :: book:ENTITY,  looks:im,  read:im
+T4	BOOK 296 318 ::	looks:im
+T5	Book_worthiness 379 530	:: intended:im, coverage of machine learning topics:im, cover:im, topic in deepth:ex
+T6	Book_worthiness 324 366	:: book:ENTITY, textbook:ex, monograph:ex
+T7	Book_Sci-content 610 652 ::	presentation:im, methods:ex, informative:im
+T8	Book_Sci-content 784 859 ::	methods:ex, introduced:im, rigourously:im, examples:ex
+T9	Book_Sci-content 878 949 ::	definiton:ex, theorem:ex, proof style:ex, more heuristic:im
+T10	Book_Sci-content 966 1108 :: topic:ex, barrier of understanding:im, examples:ex, problem:ex
+T11	Book_worthiness 1597 1699 :: book:ENTITY,  well done:im,  good source of information:im
+T12	Book_Sci-content 1199 1432 :: examples:ex, examples:ex, intuitive understanding of the problem:im, formal solution:ex 

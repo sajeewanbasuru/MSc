@@ -1,0 +1,8 @@
+T1	Book_worthiness 6 30	a thought provoking book
+T2	Book_Sci-content 32 187	covering 5 tribes of supervised learning, a bit of unsupervised learning, reinforcement learning and other stuff like chunking and relational learning, etc
+T3	Book_Sci-content 196 243	lots of speculations about the master algorithm
+T4	Book_Sci-content 278 335	climax of the book is the circled map of master algorithm
+T5	Book_Sci-content 353 467	it talks about the most important ideas, algorithms and applications, and how are they connected with other tribes
+T6	Book_Sci-content 477 619	emphasize a few common principals: overfit, curse of dimensionality, explore and exploitation, structure learning and parameters learning, etc
+T7	AUTHOR 621 717	The author is very good at explaining in a few simple sentences the gist of an advance algorithm
+T8	AUTHOR 860 905	author is a bit biased, perhaps 80+% Bayesian

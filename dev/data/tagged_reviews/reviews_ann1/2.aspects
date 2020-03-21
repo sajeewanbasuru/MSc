@@ -1,0 +1,6 @@
+T1	Book_worthiness 89 105 :: awesome:im
+T2	Book_readability 136 188 ::	clear:im, concise:im, nice follow along structure:ex
+T3	Book_Sci-content 206 221 ::	outdated:im
+T4	Book_readability 233 274 ::	iddled:im, old syntax:ex, errors:ex
+T5	Book_price-Value 580 611 ::	bothered to buy:im
+T6	Book_Sci-content 386 450 ::	examples:ex

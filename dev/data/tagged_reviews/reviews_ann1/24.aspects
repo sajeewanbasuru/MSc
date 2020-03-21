@@ -1,0 +1,5 @@
+T1	Book_Sci-content 266 330 ::	Guide:ex
+T2	Book_worthiness 354 484	:: very valuable:im,  alternative to Matlab:ex
+T3	Book_Sci-content 504 552 ::	very little Computational Science:ex, book:ENTITY
+T4	Book_readability 641 709 ::	very verbose:im, pages:ex, unexciting academic LaTeX format:ex
+T5	Book_Sci-content 894 1019 ::	personal lab notes:im

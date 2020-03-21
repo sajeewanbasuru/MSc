@@ -1,0 +1,42 @@
+This is an good book on machine learning for students at the advanced
+undergraduate or Masters level, or for self study, particularly if
+some of the background math (eigenvectors, probability theory, etc)
+is not already second nature.
+
+Although I am now familiar with much of the math in this area and consider
+myself to have intermediate knowledge of machine learning, I can still recall
+my first attempts to learn some mathematical topics. At that time my approach
+was to implement the ideas as computer programs and plot the results. This
+book takes exactly that approach, with each topic being presented both
+mathematically and in Python code using the new Numpy and Scipy libraries.
+Numpy resembles Matlab and is sufficiently high level that the book code
+examples read like pseudocode.
+
+(Another thing I recall when I was first learning was the mistaken
+belief that books are free from mistakes. I've since learned to
+expect that every first edition is going to have some, and doubly so
+for books with math and code examples. However the fact that many of the examples
+in this book produce plots is reassuring.)
+
+As mentioned I have only intermediate knowledge of machine learning, and
+have no experience with some techniques. I learned regression trees
+and ensemble learning from this book -- and then implemented an ensemble
+tree classifier that has been quite successful at our company.
+
+Some other strong books are the two Bishop books (Neural Networks for Pattern
+Recognition; Pattern Recognition and Machine Learning),
+Friedman/Hastie/Tibshirani (Elements of Statistical Learning) and
+Duda/Hart/Stork (Pattern Classification). Of these, I think the first Bishop
+book is the only other text suitable for a beginner, but it doesn't have the
+explanation-by-programming approach and is also now a bit dated (Marsland
+includes modern topics such as manifold learning, ensemble learning, and a bit
+of graphical models). Friedman et al. is a good collection of algorithms,
+including ones that are not presented in Marsland; it is a bit dry however.
+The new Bishop is probably the deepest and best current text, but it is
+probably most suited for PhD students. Duda et al would be a good book at a
+Masters level though its coverage of modern techniques is more limited. Of
+course these are just my impressions. Machine learning is a broad subject and
+anyone using these algorithms will eventually want to refer to several of these books.
+For example, the first Bishop covers the normalized flavor of radial basis
+functions (a favorite technique for me), and each of the mentioned books has
+their own strengths.

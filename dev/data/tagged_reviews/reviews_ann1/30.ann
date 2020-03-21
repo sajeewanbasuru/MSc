@@ -1,0 +1,11 @@
+T1	Book_worthiness 48 86	very good book which explores concepts
+T2	Book_Sci-content 109 150	covers most of the techniques in the area
+T3	Book_Sci-content 240 270	doesn't go deep in any concept
+T4	Book_worthiness 274 340	if you're looking for a specialized reference this is not the one.
+T5	Book_readability 397 430	a very updated list of references
+T6	Book_Sci-content 449 462	new exercises
+T7	Book_readability 546 580	changed the order of some chapters
+T8	Book_Sci-content 470 512	rewrote concepts in order to be up-to-date
+T9	Book_readability 643 683	well-written and very easy to understand
+T10	Book_worthiness 685 747	If you are new in the field this is the first textbook to read
+T11	Book_worthiness 600 635	still a very good introductory book

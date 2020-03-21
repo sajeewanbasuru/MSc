@@ -1,0 +1,11 @@
+T1	Author_expertise 1575 1663	:: author:ENTITY, professional career:ex
+T2	Author_expertise 1674 1842	:: writings:im, speculative air:im, trenches of artificial intelligence:im
+T3	Author_expertise 1848 1934	:: inspiration:im, source of perspiration:im
+T4	Author_expertise 1970 2022	:: ideas to fruition:im
+T5	Book_worthiness 2036 2150	:: predominant role:im,  field:ex
+T6	Author_expertise 3892 3983	:: ability:ex, outside of the box:im, phrase issues:im 
+T7	Book_Sci-content 3824 3867	:: explored:im, book:ENTITY
+T8	Book_Sci-content 3993 4102	:: implement:im, ideas:ex, included:im, book:ENTITY
+T9	Book_Sci-content 5707 5774	:: direct:im
+T10	Book_Sci-content 6555 6724	:: entire chapter:ex, connected:im
+T11	Book_worthiness 6727 6815	:: ideas:ex, book:ENTITY, implemented:im 

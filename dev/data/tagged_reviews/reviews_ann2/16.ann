@@ -1,0 +1,12 @@
+T1	Book_worthiness 74 144	I can't say I found it very useful for learning the material on my own
+T2	Book_Sci-content 159 214	much more of a reference book than a self-learning book
+T3	Book_Sci-content 234 320	author's purpose was to include all the material in the field into a single, huge book
+T4	Book_Sci-content 345 385	this is probably the most expansive book
+T5	Book_readability 501 579	you feel like the book was a bit rushed, it wasn't quite ready to be published
+T6	Book_readability 590 621	at least one typo in every page
+T7	Book_readability 696 750	all the algorithm references in text use wrong numbers
+T8	Book_readability 810 840	the book is not well organized
+T9	Book_readability 859 976	you feel like the author took a bunch of sections written in different times and simply pasted them one after another
+T10	Book_readability 987 1040	no coherent narrative that takes you through the text
+T11	Book_worthiness 1097 1128	I'm disappointed with this book
+T12	BOOK 1186 1252	book needs some serious review, and first of all some proofreading

@@ -1,0 +1,12 @@
+T1	Book_worthiness 107 122	:: amazing:im
+T2	Book_worthiness 145 167	:: recommend:im
+T3	Book_readability 301 326	:: Errata:ex
+T4	Book_readability 396 473	:: list of corrections:im
+T5	Book_readability 514 570	:: some errors:im
+T6	Book_Sci-content 1067 1122	:: modifies the examples:im
+T7	Book_readability 977 1019	:: corrections:ex
+T8	Book_Sci-content 1202 1291	:: worked through examples:ex
+T9	Book_Sci-content 1311 1352	:: concepts:ex, skimmed:im
+T10	Book_price-Value 1982 2048  :: other than paying:ex
+T11	Book_worthiness 1783 1803	:: useful:im
+T12	Book_readability 1484 1529	:: weird 3D graph:ex, explained:im

@@ -1,0 +1,7 @@
+I purchased this book as a text for the Stanford online course in PGM, which as of this writing is at least six weeks late in starting. While waiting for the course, I've tried to struggle through the first chapters on my own, with zero success. After wading through about the first third of the book, and skimming the rest, I must say that if I had to implement a program using PGM to solve some problem, I wouldn't have the foggiest idea how to even begin.
+
+This book may well be a good reference for someone who already has a deep background in machine learning & artificial intelligence, but it emphatically is not of any use to the novice in the field. It contains many proofs of theorems, numerous long winded "explanations" (most of which I don't understand), some algorithms set out in an obfuscated format(2) that I thought had died out about the time I got my BS, but (as far as I've been able to discover) not one line of actual code, nor any implementation, even of the simple "Hello, World" sort.
+
+(1) For background, I have a couple of decades of programming experience, most of it in numerical modelling and parallel applications.
+
+(2) A LaTeX cheat sheet for the symbols used would be a useful addition to future editions of the text.
