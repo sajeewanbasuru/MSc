@@ -1,10 +1,14 @@
+import warnings
+
 import sys
 sys.path.append('../')
 
 import os
 import re
 import nltk
-import textacy
+with warnings.catch_warnings():
+    warnings.filterwarnings("ignore",category=DeprecationWarning)
+    import textacy
 import time
 import pandas as pd
 import gensim
@@ -22,6 +26,12 @@ from nltk.corpus import wordnet
 
 nlp = spacy.load('en')
 nlp_sim = spacy.load('en_core_web_lg')
+
+os.environ['CLASSPATH'] = "./stanford"
+os.environ['STANFORD_PARSER'] = "./stanford"
+os.environ['STANFORD_MODELS'] = "./stanford"
+os.environ['STANFORD_MODEL'] = "./stanford"
+os.environ['JAVA_HOME'] = "C:/Program Files/Java/jdk1.8.0_151"
 
 STOP_LIST = list(ENGLISH_STOP_WORDS) + \
             ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "<", ">", "?", "~", "`", "/", ",", ".", "{", "}", "[", "]", "|", "\\"] + \
@@ -278,6 +288,7 @@ class AspectExtractor:
         xx = 0
 
         for doc_id, doc in docs.items():
+            #print("1111111")
 
             for l_index, sent_span in enumerate(doc):
 
@@ -323,6 +334,7 @@ class AspectExtractor:
                 try:
                     #sent = sent.strip().rstrip()
                     dep_graphs = list(dep_parser.raw_parse(sent))
+                    #print(dep_graphs)
 
                     feature_list = self.traverse_to_extract_aspects(dep_graphs, sent)
                     for (node, ptext, start_char, end_char, rule_num) in feature_list:
@@ -336,8 +348,10 @@ class AspectExtractor:
                             continue
                         self.update_feature(sent, doc_id, ptext, span, start_char, end_char, rule_num, False)
 
-                except:
+                except Exception as e:
+                    print(e)
                     pass
+                    #sys.exit(1)
 
         return self.aspect_list
 
@@ -504,8 +518,10 @@ class AspectExtractor:
             start_index = 0
             end_index = 0
             for reg in regs:
+                #pt = textacy.extract.matches(nlp_sent, reg)
                 pt = textacy.extract.pos_regex_matches(nlp_sent, reg)
                 for p in pt:
+                    print(p)
                     if compound_word in p.text and len(compound_word) < len(p.text):
                         compound_word = p.text
                         start_index = p.start_char
@@ -522,7 +538,9 @@ class AspectExtractor:
             #    print(compound_word)
             compound_node['word'] = compound_word
 
-        except:
+        except Exception as e:
+            #print(e)
+            #sys.exit(1)
             pass
 
         return compound_node
