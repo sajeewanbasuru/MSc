@@ -28,6 +28,7 @@ nlp = spacy.load('en')
 nlp_sim = spacy.load('en_core_web_lg')
 
 os.environ['CLASSPATH'] = "./stanford"
+# add stanford-parser, stanford-parser-3.8.0-models
 os.environ['STANFORD_PARSER'] = "./stanford"
 os.environ['STANFORD_MODELS'] = "./stanford"
 os.environ['STANFORD_MODEL'] = "./stanford"
